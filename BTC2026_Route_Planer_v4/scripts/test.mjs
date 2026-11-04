@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+const dir=new URL('../data/',import.meta.url);
+const raw=JSON.parse(await readFile(new URL('baseline.json',dir)));
+const feed=JSON.parse(await readFile(new URL('schedule.json',dir)));
+assert.equal(raw.length,75);
+assert.equal(feed.sessions.length,75);
+assert.equal(new Set(raw.map(s=>s.id)).size,raw.length);
+assert.ok(raw.filter(s=>s.day===1&&s.stage==='M').length>10);
+assert.ok(raw.filter(s=>s.day===2&&s.stage==='W').length>3);
+console.log('Snapshot integrity tests passed');
