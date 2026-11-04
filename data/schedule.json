@@ -1,9 +1,9 @@
 {
-  "source": "manual-snapshot",
+  "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
-  "method": "provided-schedule-screenshots",
-  "verifiedAt": null,
-  "lastChangedAt": null,
+  "method": "scheduled-browser-extraction",
+  "verifiedAt": "2026-11-04T04:35:01.347Z",
+  "lastChangedAt": "2026-11-04T04:35:01.347Z",
   "sessions": [
     {
       "id": 0,
@@ -11,7 +11,7 @@
       "stage": "M",
       "start": "08:30",
       "end": "09:00",
-      "type": "Welcome",
+      "type": "Arrival & Welcome",
       "title": "Arrival & Welcome / Seating",
       "speaker": ""
     },
@@ -21,9 +21,9 @@
       "stage": "M",
       "start": "09:00",
       "end": "09:15",
-      "type": "Opening",
-      "title": "What is Bitcoin, What is not Bitcoin - สินทรัพย์หนึ่งเดียวที่โลกไม่เคยมี",
-      "speaker": "Piriya Sambandaraksa"
+      "type": "Opening Ceremony",
+      "title": "What is Bitcoin, What is not Bitcoin - สินทรัพย์หนึ่งเดียวที่โลกไม่เคยมี (TH/EN)",
+      "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
     },
     {
       "id": 2,
@@ -42,7 +42,7 @@
       "start": "09:20",
       "end": "09:40",
       "type": "Keynote",
-      "title": "Nation-State Game Theory: Why Asia’s Central Banks Will Capitulate to Bitcoin",
+      "title": "Nation-State Game Theory: Why Asia’s Central Banks Will Capitulate to Bitcoin (EN/TH)",
       "speaker": "Jack Tinney"
     },
     {
@@ -52,8 +52,8 @@
       "start": "09:40",
       "end": "10:25",
       "type": "Panel",
-      "title": "The Future of Thai Baht - อนาคตเงินบาทและชาติไทย",
-      "speaker": "Udomsak Rakwongwan · Boonyavee Phlayphan · Panchita Asavateeranun"
+      "title": "The Future of Thai Baht - อนาคตเงินบาทและชาติไทย (TH/EN)",
+      "speaker": "Asst. Prof. Dr.Udomsak Rakwongwan - ผศ.ดร.อุดมศักดิ์ รักวงษ์วาน · Boonyavee Phlayphan - บุณยวีย์ พลายพันธุ์ · (Mod) Panchita Asavateeranun - พัณณ์ชิตา อัศวธีรานันท์"
     },
     {
       "id": 5,
@@ -62,45 +62,45 @@
       "start": "10:25",
       "end": "10:50",
       "type": "Keynote",
-      "title": "Bitcoin and Thailand’s Energy Equation - แบ่งพลังงานประเทศไทย มาขุดและเก็บบิตคอยน์",
-      "speaker": "Napon Hongsakulvasu"
+      "title": "Bitcoin and Thailand’s Energy Equation - แบ่งพลังงานประเทศไทย มาขุดและเก็บบิตคอยน์ (TH/EN)",
+      "speaker": "Asst. Prof. Dr.Napon Hongsakulvasu - ผศ. ดร.ณพล หงสกุลวสุ"
     },
     {
       "id": 6,
       "day": 1,
       "stage": "M",
       "start": "10:50",
-      "end": "11:15",
+      "end": "11:20",
       "type": "Keynote",
-      "title": "Global Financial Control Grid - เงินในฐานะเครื่องมือควบคุมโลก",
-      "speaker": "Sothida Chotvijit"
+      "title": "Global Financial Control Grid - เงินในฐานะเครื่องมือควบคุมโลก (TH/EN)",
+      "speaker": "Sothida Chotvijit - โศธิดา โชติวิจิตร"
     },
     {
       "id": 7,
       "day": 1,
       "stage": "M",
-      "start": "11:15",
-      "end": "11:45",
+      "start": "11:20",
+      "end": "11:50",
       "type": "Keynote",
-      "title": "The Ultimate Mission of a Bitcoiner - สิ่งที่ต้องทำก่อนตาย ของชายแท้บิตคอยเนอร์",
-      "speaker": "Wichit Saiklao"
+      "title": "The Ultimate Mission of a Bitcoiner - สิ่งที่ต้องทำก่อนตาย ของชายแท้บิตคอยเนอร์ (TH/EN)",
+      "speaker": "Dr.Wichit Saiklao - ดร.วิชิต ซ้ายเกล้า"
     },
     {
       "id": 8,
       "day": 1,
       "stage": "M",
-      "start": "11:45",
-      "end": "12:05",
+      "start": "11:50",
+      "end": "12:10",
       "type": "Keynote",
-      "title": "80 BTC Gone From a Hardware Wallet: 5 Ways Hackers Steal Your Bitcoin",
-      "speaker": "Saharat Anuwatmatee"
+      "title": "80 BTC Gone From a Hardware Wallet: 5 Ways Hackers Steal Your Bitcoin - 5 ท่ามาตรฐานที่โจรใช้ขโมย BTC ของคุณ (TH/EN)",
+      "speaker": "Saharat Anuwatmatee - สหรัฐ อนุวัตเมธี"
     },
     {
       "id": 9,
       "day": 1,
       "stage": "M",
-      "start": "12:05",
-      "end": "13:00",
+      "start": "12:10",
+      "end": "12:40",
       "type": "Break",
       "title": "Lunch Break - พักเที่ยง",
       "speaker": ""
@@ -109,11 +109,21 @@
       "id": 10,
       "day": 1,
       "stage": "M",
-      "start": "13:00",
+      "start": "12:40",
+      "end": "13:05",
+      "type": "Keynote",
+      "title": "Beyond Borders: Bitcoin for the People Who Need It Most - บิตคอยน์ อิสรภาพไร้พรมแดน เพื่อผู้ที่ถูกลืม (EN/TH)",
+      "speaker": "Jimmy Kostro"
+    },
+    {
+      "id": 22,
+      "day": 1,
+      "stage": "M",
+      "start": "13:05",
       "end": "13:25",
       "type": "Keynote",
-      "title": "Beyond Borders: Bitcoin for the People Who Need It Most",
-      "speaker": "Jimmy Kostro"
+      "title": "The Dark Side of Real Estate - กลลวงอสังหาฯ ภาพลวงตาจากรัฐผู้หวังดี (TH/EN)",
+      "speaker": "Dr.Sopon Pornchokchai - ดร.โสภณ พรโชคชัย"
     },
     {
       "id": 11,
@@ -123,7 +133,7 @@
       "end": "13:50",
       "type": "Keynote",
       "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ",
-      "speaker": "Temyos Pandejpong"
+      "speaker": "Dr.Temyos Pandejpong - ดร.เต็มยศ ปาลเดชพงศ์"
     },
     {
       "id": 12,
@@ -132,8 +142,8 @@
       "start": "13:50",
       "end": "14:35",
       "type": "Panel",
-      "title": "Build to Last - พ่อสร้าง ลูกสาน หลานสืบทอด",
-      "speaker": "Pun Paniangvait · Piriya Sambandaraksa · Warinmat Panyadee"
+      "title": "Build to Last - พ่อสร้าง ลูกสาน หลานสืบทอด (TH/EN)",
+      "speaker": "Pun Paniangvait - พันธ์ พะเนียงเวทย์ · Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์ · (Mod) Warinmat Panyadee - วรินท์มาศ ปัญญาดี"
     },
     {
       "id": 13,
@@ -142,8 +152,8 @@
       "start": "14:35",
       "end": "15:20",
       "type": "Keynote",
-      "title": "What is Quantum, What is not Quantum - ควอนตัมฯ กลัวทำไม เข้าใจหรือยัง?",
-      "speaker": "Jirawat Tangpanitanon · Piriya Sambandaraksa"
+      "title": "What is Quantum, What is not Quantum - ควอนตัมฯ กลัวทำไม เข้าใจหรือยัง? (TH/EN)",
+      "speaker": "Dr.Jirawat Tangpanitanon - ดร.จิรวัฒน์ ตั้งปณิธานนท์ · (Mod) Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
     },
     {
       "id": 14,
@@ -152,8 +162,8 @@
       "start": "15:20",
       "end": "16:05",
       "type": "Panel",
-      "title": "When Capital Goes Digital, Where Does Thailand Stand?",
-      "speaker": "Shok Shogun · Sanjay Popli"
+      "title": "When Capital Goes Digital, Where Does Thailand Stand? - วางโครงสร้างทุนอย่างเข้าใจ ก่อนสายเกินไปกับคนไทยทุกคน (TH/EN)",
+      "speaker": "Shok Shogun - โช๊ค โชกุล · Sanjay Popli - สัญชัย ปอปลี"
     },
     {
       "id": 15,
@@ -162,7 +172,7 @@
       "start": "16:05",
       "end": "16:35",
       "type": "Keynote",
-      "title": "Rethinking Risk: Why the Traditional Portfolio Needs a New Macro Hedge",
+      "title": "Rethinking Risk: Why the Traditional Portfolio Needs a New Macro Hedge - พอร์ตเปลี่ยนไป หลังเข้าใจบิตคอยน์ (TH/EN)",
       "speaker": "Thai Ratel"
     },
     {
@@ -171,19 +181,19 @@
       "stage": "M",
       "start": "16:35",
       "end": "17:25",
-      "type": "Presentation",
-      "title": "0.1 BTC: A Starting Point for Financial Freedom",
-      "speaker": "Watcharaporn Donsang"
+      "type": "Project Presentation",
+      "title": "0.1 BTC : A Starting Point for Financial Freedom - 0.1 BTC จุดเริ่มต้นอิสรภาพ (TH/EN)",
+      "speaker": "Watcharaporn Donsang - วัชราภรณ์ ดอนแสง"
     },
     {
-      "id": 17,
+      "id": 1000,
       "day": 1,
       "stage": "M",
       "start": "17:25",
       "end": "18:10",
       "type": "Panel",
-      "title": "Thailand as a World Superpower by 2036",
-      "speaker": "Chaloke Sambandaraksa · Warinmat Panyadee"
+      "title": "Thailand as a World Superpower by 2036 - ไทยจะเป็น มหาอำนาจ ในปี 2036 (TH/EN)",
+      "speaker": "Chaloke Sambandaraksa - โฉลก สัมพันธารักษ์ · (Mod) Warinmat Panyadee - วรินท์มาศ ปัญญาดี"
     },
     {
       "id": 18,
@@ -192,7 +202,7 @@
       "start": "09:55",
       "end": "10:15",
       "type": "Keynote",
-      "title": "Merchants, Not Maxis: Building on Bitcoin at 20",
+      "title": "Merchants, Not Maxis: Building on Bitcoin at 20 (EN/TH)",
       "speaker": "Zach Wizenberg"
     },
     {
@@ -202,8 +212,8 @@
       "start": "10:20",
       "end": "11:05",
       "type": "Panel",
-      "title": "Bitcoin Education",
-      "speaker": "Keypleb · Marek Feder · Mada"
+      "title": "Bitcoin Education (EN/TH)",
+      "speaker": "Keypleb · Marek Feder · Mada (Pending Confirmation)"
     },
     {
       "id": 20,
@@ -212,8 +222,8 @@
       "start": "11:10",
       "end": "11:40",
       "type": "Keynote",
-      "title": "How to Start Bitcoin Business",
-      "speaker": "Kevin Loaec"
+      "title": "How to Start Bitcoin Business (EN/TH)",
+      "speaker": "Kevin Loaec (Pending Confirmation)"
     },
     {
       "id": 21,
@@ -222,18 +232,8 @@
       "start": "11:45",
       "end": "12:05",
       "type": "Keynote",
-      "title": "Before The Block: Inside Bitcoin’s Mempool",
+      "title": "Before The Block: Inside Bitcoin’s Mempool (EN/TH)",
       "speaker": "Soft Simon"
-    },
-    {
-      "id": 22,
-      "day": 1,
-      "stage": "C",
-      "start": "12:10",
-      "end": "12:40",
-      "type": "Keynote",
-      "title": "The Dark Side of Real Estate - กลลวงอสังหาฯ ภาพลวงตาจากรัฐผู้หวังดี",
-      "speaker": "Sopon Pornchokchai"
     },
     {
       "id": 23,
@@ -242,8 +242,8 @@
       "start": "12:45",
       "end": "13:15",
       "type": "Keynote",
-      "title": "The Secret Weapon Against the Deep State - อาวุธลับงัดข้อกับรัฐลึก",
-      "speaker": "Piriya Sambandaraksa"
+      "title": "The Secret Weapon Against the Deep State - อาวุธลับงัดข้อกับรัฐลึก (TH/EN)",
+      "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
     },
     {
       "id": 24,
@@ -252,8 +252,8 @@
       "start": "13:20",
       "end": "14:05",
       "type": "Keynote",
-      "title": "Mass Psychosis - ขบวนการล้างสมองประชากรโลก",
-      "speaker": "Atapol Sughondhabirom"
+      "title": "Mass Psychosis - ขบวนการล้างสมองประชากรโลก (TH/EN)",
+      "speaker": "Atapol Sughondhabirom · M.D. - นพ.อรรถพล สุคนธาภิรมย์ ณ พัทลุง"
     },
     {
       "id": 25,
@@ -262,8 +262,8 @@
       "start": "14:10",
       "end": "14:55",
       "type": "Keynote",
-      "title": "Mass Surveillance - มหาวิบัติสิ้นโลกส่วนตัว",
-      "speaker": "Devapoj Sambandaraksa"
+      "title": "Mass Surveillance - มหาวิบัติสิ้นโลกส่วนตัว (TH/EN)",
+      "speaker": "Devapoj Sambandaraksa - เทวพจน์ สัมพันธารักษ์"
     },
     {
       "id": 26,
@@ -272,7 +272,7 @@
       "start": "15:00",
       "end": "15:15",
       "type": "Keynote",
-      "title": "Get on The Ark",
+      "title": "Get on The Ark (EN/TH)",
       "speaker": "Neil Woodfine"
     },
     {
@@ -282,7 +282,7 @@
       "start": "15:20",
       "end": "15:40",
       "type": "Keynote",
-      "title": "Pay Join",
+      "title": "Pay Join (EN/TH)",
       "speaker": "Dan Gould"
     },
     {
@@ -291,8 +291,8 @@
       "stage": "C",
       "start": "15:45",
       "end": "16:05",
-      "type": "Presentation",
-      "title": "Mining Decentralization",
+      "type": "Project Presentation",
+      "title": "Mining Decentralization (EN/TH)",
       "speaker": "bit_aloo"
     },
     {
@@ -302,7 +302,7 @@
       "start": "16:10",
       "end": "16:40",
       "type": "Keynote",
-      "title": "Monetizing APIs with ngx-l402",
+      "title": "Monetizing APIs with ngx-l402 (EN/TH)",
       "speaker": "thesvn"
     },
     {
@@ -312,7 +312,7 @@
       "start": "16:45",
       "end": "17:15",
       "type": "Keynote",
-      "title": "Making Asia Bitcoin Capital",
+      "title": "Making Asia Bitcoin Capital (EN/TH)",
       "speaker": "Gaëlle Wizenberg"
     },
     {
@@ -321,9 +321,9 @@
       "stage": "W",
       "start": "09:30",
       "end": "10:00",
-      "type": "Presentation",
-      "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ",
-      "speaker": "Techin Keasornpan"
+      "type": "Project Presentation",
+      "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ (TH/EN)",
+      "speaker": "Techin Keasornpan - เตชินท์ เกษรพันธ์"
     },
     {
       "id": 32,
@@ -331,9 +331,9 @@
       "stage": "W",
       "start": "10:00",
       "end": "10:30",
-      "type": "Presentation",
-      "title": "Phylax - เปิดตัว Hardware Wallet ของคนตัวเล็ก",
-      "speaker": "Patipan Jeansertrong · Chanwut Norachan"
+      "type": "Project Presentation",
+      "title": "Phylax - เปิดตัว Hardware Wallet ของคนตัวเล็ก (TH/EN)",
+      "speaker": "Patipan Jeansertrong - ปฏิภาณ เจนซื่อตรง · Chanwut Norachan - ชาญวุฒิ นรชาญ"
     },
     {
       "id": 33,
@@ -341,8 +341,8 @@
       "stage": "W",
       "start": "10:30",
       "end": "11:15",
-      "type": "Presentation",
-      "title": "Seed Key",
+      "type": "Project Presentation",
+      "title": "Seed Key (EN/TH)",
       "speaker": "Hypno"
     },
     {
@@ -362,7 +362,7 @@
       "start": "12:45",
       "end": "13:15",
       "type": "Keynote",
-      "title": "Wizardsardine and Liana Wallet",
+      "title": "Wizardsardine and Liana Wallet (EN/TH)",
       "speaker": "Kevin Loaec"
     },
     {
@@ -372,7 +372,7 @@
       "start": "14:00",
       "end": "15:30",
       "type": "Keynote",
-      "title": "International Projects",
+      "title": "International Projects (EN/TH)",
       "speaker": "Jimmy Kostro"
     },
     {
@@ -381,8 +381,8 @@
       "stage": "W",
       "start": "15:30",
       "end": "16:10",
-      "type": "Presentation",
-      "title": "Self Custody Academy",
+      "type": "Project Presentation",
+      "title": "Self Custody Academy (EN/TH)",
       "speaker": "Andy Wong"
     },
     {
@@ -392,7 +392,7 @@
       "start": "16:10",
       "end": "16:40",
       "type": "Keynote",
-      "title": "Get on The Ark",
+      "title": "Get on The Ark (EN/TH)",
       "speaker": "Neil Woodfine"
     },
     {
@@ -401,19 +401,19 @@
       "stage": "M",
       "start": "08:30",
       "end": "09:00",
-      "type": "Welcome",
+      "type": "Arrival & Welcome",
       "title": "Arrival & Welcome / Seating",
       "speaker": ""
     },
     {
-      "id": 40,
+      "id": 1001,
       "day": 2,
       "stage": "M",
       "start": "09:00",
       "end": "09:30",
       "type": "Keynote",
-      "title": "The Price of Promises - องค์กรปกครองราชการไทย จะไปทางไหน?",
-      "speaker": "Phatrapol Nuanyai"
+      "title": "The Price of Promises - องค์กรถ่วงความเจริญแห่งชาติ (TH/EN)",
+      "speaker": "Phatrapol Nuanyai - ภัทรพล นวลใย"
     },
     {
       "id": 41,
@@ -422,8 +422,8 @@
       "start": "09:30",
       "end": "09:50",
       "type": "Keynote",
-      "title": "Giving AI a Wallet: The Reality of Machine Money",
-      "speaker": "Pruk Sasinghon"
+      "title": "Giving AI a Wallet: The Reality of Machine Money - ใช้บิตคอยน์ป้อนเอไอ ขุมพลังใหม่ของสมองกล (TH/EN)",
+      "speaker": "Dr.Pruk Sasithong - ดร.พฤกษ์ สระศรีทอง"
     },
     {
       "id": 42,
@@ -432,8 +432,8 @@
       "start": "09:50",
       "end": "10:35",
       "type": "Panel",
-      "title": "Corporate Treasuries: The New Standard for Preserving Value",
-      "speaker": "Chotiphan Tiwawat · Chawan Rattanakitkul · Mod Ladprada Pipat"
+      "title": "Corporate Treasuries: The New Standard for Preserving Value - ศักราชใหม่ บริษัทเก็บสำรองบิตคอยน์ (TH/EN)",
+      "speaker": "Chotiphun Tiaviwat - โชติพันธุ์ เตียวิวัฒน์ · Chawan Rattanakittakul - ชวัล รัตนกิจตระกูล · (Mod) Lapatrada Pipat - ลภัสรดา พิพัฒน์"
     },
     {
       "id": 43,
@@ -442,7 +442,7 @@
       "start": "10:35",
       "end": "11:05",
       "type": "Keynote",
-      "title": "Energy Wars: Bitcoin Mining vs. AI & Data Centers",
+      "title": "Energy Wars: Bitcoin Mining vs. AI & Data Centers - สงครามเมกะวัตต์ ศตวรรษแห่งอนาคต (TH/EN)",
       "speaker": "Piccolo"
     },
     {
@@ -452,8 +452,8 @@
       "start": "11:05",
       "end": "11:25",
       "type": "Keynote",
-      "title": "Age of Bitcoin: Thailand’s Game Goes Global",
-      "speaker": "Chumpol Wongmatkul"
+      "title": "Age of Bitcoin: Thailand’s Game Goes Global - บอร์ดเกมสัญชาติไทย สะเทือนไกลไปทั่วโลก (TH/EN)",
+      "speaker": "Chumpol Wongmatikul - ชุมพล วงศ์มติกุล"
     },
     {
       "id": 45,
@@ -462,8 +462,8 @@
       "start": "11:25",
       "end": "11:40",
       "type": "Keynote",
-      "title": "Inside Southeast Asia’s Most Active Bitcoin Merchant Community",
-      "speaker": "Naphat Kaosuwan"
+      "title": "Inside Southeast Asia’s Most Active Bitcoin Merchant Community - ประเทศไทย ผู้นำร้านค้ารับบิตคอยน์แห่งเอเชีย (TH/EN)",
+      "speaker": "Naphat Kaosuwan - ณภัทร ขาวสุวรรณ"
     },
     {
       "id": 46,
@@ -482,28 +482,28 @@
       "start": "12:40",
       "end": "13:25",
       "type": "Keynote",
-      "title": "The Bitcoin Tax Playbook - ภาษีคริปโตในประเทศไทย?",
-      "speaker": "Thanom Ketem · Siraphop Nilobode"
+      "title": "The Bitcoin Tax Playbook - ภาษีแล้วมันเป็นหยัง? (TH/EN)",
+      "speaker": "Thanom Ketem - ถนอม เกตุเอม · Siraphop Nilbodee - สิรภพ นิลบดี"
     },
     {
-      "id": 48,
+      "id": 1002,
       "day": 2,
       "stage": "M",
       "start": "13:25",
       "end": "14:10",
       "type": "Panel",
-      "title": "What Really Drives Bitcoin’s Price? - อะไรคือสิ่งที่กำหนดราคา BTC",
-      "speaker": "Kayce Chutkaseam · Pokkhet Ratchaprakarn · Mod Ladprada Pipat"
+      "title": "What Really Drives Bitcoin’s Price? - อนาคตบิตคอยน์ 100 ปี (TH/EN)",
+      "speaker": "Kavee Chukitkasem - กวี ชูกิจเกษม · Pokkhet Ratchakitprakarn - ปกเขตร รัชกิจประการ · (Mod) Lapatrada Pipat - ลภัสรดา พิพัฒน์"
     },
     {
-      "id": 49,
+      "id": 1003,
       "day": 2,
       "stage": "M",
       "start": "14:10",
       "end": "14:30",
       "type": "Keynote",
-      "title": "Unlocking Bitcoin: From Collateral to Capital",
-      "speaker": "Natsuda Bhukkamsut"
+      "title": "Unlocking Bitcoin: From Collateral to Capital - เปลี่ยนบิตคอยน์ของคุณ เป็นทุนทางธุรกิจ (TH/EN)",
+      "speaker": "Natsuda Bhukkanasut - ณัทสุดา พุกกะณะสุต"
     },
     {
       "id": 50,
@@ -512,38 +512,38 @@
       "start": "14:30",
       "end": "14:50",
       "type": "Panel",
-      "title": "Capital in Motion: Decoding Bitcoin’s Price",
-      "speaker": "Peeraphat Hankongkaew"
+      "title": "Capital in Motion: Decoding Bitcoin's Price - พลวัตกระแสเงินทุนโลกกับราคาบิตคอยน์ (TH/EN)",
+      "speaker": "Peeraphat Hankongkaew - พีรพัฒน์ หาญคงแก้ว"
     },
     {
-      "id": 51,
+      "id": 1004,
       "day": 2,
       "stage": "M",
       "start": "14:50",
       "end": "15:20",
       "type": "Panel",
-      "title": "Hunting the Invisible - ไล่ล่าอาชญากรรมในคริปโต",
-      "speaker": "Pui Mai · Mod Nattayot Sreebua"
+      "title": "Hunting the Invisible - ไล่ล่าอาชญากรไร้เงา ภารกิจสืบสวนยุคใหม่ (TH/EN)",
+      "speaker": "Pol.Maj.Pattrawudh Damrad - ว่าที่ พ.ต.ต.ภัทราวุธ ดำราษฎร์ · (Mod) Nattayot Seehabua - ณัฐยศ สีหาบัว"
     },
     {
-      "id": 52,
+      "id": 1005,
       "day": 2,
       "stage": "M",
       "start": "15:20",
       "end": "16:05",
       "type": "Panel",
-      "title": "Thailand’s Cost of Ignoring Bitcoin - เสียอะไรไปถ้าไม่ลงมือ?",
-      "speaker": "Sita Divari · Natee Theppot · Tanyaluk Kovintasecha"
+      "title": "Thailand's Cost of Ignoring Bitcoin - เมื่อเลี่ยงไม่ได้ หรือนี่คือวิธีที่ไทยจะเข้าร่วม? (TH/EN)",
+      "speaker": "Sqn Ldr Sita Divari - น.ต.ศิธา ทิวารี · Dr.Natee Theppot - ดร.นที เทพโภชน์ · (Mod) Tanyaluk Kovintasetha - ธัญญลักษณ์ โควินทเศรษฐ"
     },
     {
-      "id": 53,
+      "id": 1006,
       "day": 2,
       "stage": "M",
       "start": "16:05",
       "end": "16:50",
       "type": "Panel",
-      "title": "The Generational Wealth - ส่งต่อเงิน ความมั่งคั่งจากรุ่นสู่รุ่น",
-      "speaker": "Wichit Saiklao · Jakkapong Mespan · Jitron Buranakra"
+      "title": "The Generational Wealth - เลือดเนื้อ ความหวัง ความมั่งคั่ง อนาคต (TH/EN)",
+      "speaker": "Dr.Wichit Saiklao - ดร.วิชิต ซ้ายเกล้า · Jakkapong Mespan - จักรพงษ์ เมษพันธุ์ · (Mod) Juranon Burapaka - จุรานนท์ บุระผากา"
     },
     {
       "id": 54,
@@ -552,27 +552,27 @@
       "start": "16:50",
       "end": "17:50",
       "type": "Panel",
-      "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community",
-      "speaker": "Napatsun Chatchayaladisri · Nattayot Sreebua · Sutthikeat Sirivoradej · Habib Kodea · Sarun Viriyasilpong · Mod Jutarat Singkaeo"
+      "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
+      "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Jutarat Singkaeo - จุฑารัตน์ สิงห์แก้ว"
     },
     {
-      "id": 55,
+      "id": 1007,
       "day": 2,
       "stage": "M",
       "start": "17:50",
       "end": "18:20",
       "type": "Keynote",
-      "title": "Where were we? - พวกเรามาไกลแค่ไหนจากวันแรก?",
-      "speaker": "Piriya Sambandaraksa"
+      "title": "Where were we? - พวกเราคนไทยอยู่ตรงไหนของแผนที่โลก? (TH/EN)",
+      "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
     },
     {
-      "id": 56,
+      "id": 1008,
       "day": 2,
       "stage": "C",
-      "start": "09:00",
+      "start": "09:05",
       "end": "09:35",
       "type": "Keynote",
-      "title": "Home Mining - เสียบปลั๊ก รับซัตส์",
+      "title": "Home Mining - เสียบปลั๊ก รับตังค์ (TH/EN)",
       "speaker": "Piccolo"
     },
     {
@@ -581,29 +581,29 @@
       "stage": "C",
       "start": "09:40",
       "end": "10:10",
-      "type": "Presentation",
-      "title": "The Bitcoin Educator’s Journey - จากผู้สอนสู่ผู้สร้างการเรียนรู้",
-      "speaker": "Siraphop Nilobode"
+      "type": "Project Presentation",
+      "title": "The Bitcoin Educator’s Journey - ปั้นครูสู่แนวหน้าอุตสาหกรรมบิตคอยน์ (TH/EN)",
+      "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
     },
     {
-      "id": 58,
+      "id": 1009,
       "day": 2,
       "stage": "C",
       "start": "10:15",
       "end": "10:45",
       "type": "Keynote",
-      "title": "Self-custody 101 - เก็บบิตคอยน์ให้ปลอดภัยเริ่มต้นอย่างไร",
-      "speaker": "Cholatis Maneewong"
+      "title": "Self-custody 101 - เก็บบิตคอยน์ให้พ้นมือเมีย (TH/EN)",
+      "speaker": "Chollatis Maneewong - ชลธิศ มณีวงษ์"
     },
     {
-      "id": 59,
+      "id": 1010,
       "day": 2,
       "stage": "C",
       "start": "10:50",
       "end": "11:20",
       "type": "Keynote",
-      "title": "Hardware Wallet: Secure Element Chip - ชิปส่วนสำคัญเพื่อปกป้องสินทรัพย์",
-      "speaker": "Suppakrit Boonsat"
+      "title": "Hardware Wallet: Secure Element Chip - ชิ้นส่วนตัวเล็ก แต่ปกป้องเรื่องใหญ่ (TH/EN)",
+      "speaker": "Suppakrit Boonsat - ศุภกฤษฎ์ บุญสาตร์"
     },
     {
       "id": 60,
@@ -612,8 +612,8 @@
       "start": "11:25",
       "end": "11:40",
       "type": "Keynote",
-      "title": "The Bitcoin Merchant Toolkit: MEKHA",
-      "speaker": "Siraphop Nilobode"
+      "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
+      "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
     },
     {
       "id": 61,
@@ -622,8 +622,8 @@
       "start": "11:45",
       "end": "12:00",
       "type": "Keynote",
-      "title": "The Bitcoin Merchant Toolkit: Smart Coin System",
-      "speaker": "Chanwut Norachan"
+      "title": "The Bitcoin Merchant Toolkit: Smart Coin System - เปิดโปรเจกต์โครงข่ายสารพัดรับจ้าง (TH/EN)",
+      "speaker": "Chanwut Norachan - ชาญวุฒิ นรชาญ"
     },
     {
       "id": 62,
@@ -632,28 +632,28 @@
       "start": "12:05",
       "end": "12:20",
       "type": "Keynote",
-      "title": "The Bitcoin Merchant Toolkit: Inw Cash PoS",
-      "speaker": "Pruk Sasinghon"
+      "title": "The Bitcoin Merchant Toolkit: Inw Cash PoS - เปิดโปรเจกต์ระบบขายหน้าร้านผ่านสายฟ้า (TH/EN)",
+      "speaker": "Dr.Pruk Sasithong - ดร.พฤกษ์ สระศรีทอง"
     },
     {
-      "id": 63,
+      "id": 1011,
       "day": 2,
       "stage": "C",
       "start": "12:35",
       "end": "13:05",
       "type": "Keynote",
-      "title": "Buy or Mine - มุมมองในการถือบิตคอยน์ให้คุ้มค่า",
-      "speaker": "Sakkarin Uoris"
+      "title": "Buy or Mine - มนุษย์เงินเดือน เดินหน้าซื้อ หรือวางเครื่องขุด (TH/EN)",
+      "speaker": "Sakkarin Borisut - ศักรินทร์ บริสุทธิ์"
     },
     {
-      "id": 64,
+      "id": 1012,
       "day": 2,
       "stage": "C",
       "start": "13:10",
       "end": "14:10",
       "type": "Panel",
-      "title": "Bitcoin Maxxing - โอกาสและวิธีใช้ชีวิตแบบบิตคอยน์",
-      "speaker": "Piyapong Boonyakarn · Techin Keasornpan · Juranon Urapa · Phovich Phuangphachinda"
+      "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
+      "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน"
     },
     {
       "id": 65,
@@ -662,7 +662,7 @@
       "start": "14:15",
       "end": "14:45",
       "type": "Keynote",
-      "title": "Decentralized Equilibrium for Bitcoin Mining",
+      "title": "Decentralized Equilibrium for Bitcoin Mining (EN/TH)",
       "speaker": "Manuel Mueller-Frank"
     },
     {
@@ -672,7 +672,7 @@
       "start": "14:50",
       "end": "15:20",
       "type": "Keynote",
-      "title": "Beauty Bitcoiner",
+      "title": "Beauty Bitcoiner (EN/TH)",
       "speaker": "Shambhavi Soni · Mango"
     },
     {
@@ -681,29 +681,29 @@
       "stage": "C",
       "start": "15:25",
       "end": "15:55",
-      "type": "Presentation",
-      "title": "Bitcoin Kernel Demonstration",
+      "type": "Project Presentation",
+      "title": "Bitcoin Kernel Demonstration (EN/TH)",
       "speaker": "yuvicc C"
     },
     {
-      "id": 68,
+      "id": 1013,
       "day": 2,
       "stage": "C",
       "start": "16:00",
       "end": "16:30",
       "type": "Keynote",
-      "title": "BitVN",
+      "title": "BitVN (EN/TH)",
       "speaker": "Fabian"
     },
     {
-      "id": 69,
+      "id": 1014,
       "day": 2,
       "stage": "W",
       "start": "09:00",
       "end": "10:30",
-      "type": "Presentation",
-      "title": "Bitcoin for Parents - ครอบครัวที่มีบิตคอยน์",
-      "speaker": "Watcharaporn Donsang · CodeKids Team"
+      "type": "Project Presentation",
+      "title": "Bitcoin for Parents - ครอบครัวคือพื้นที่ปลอดภัย เริ่มจากเปิดใจคุยเรื่องเงิน (TH/EN)",
+      "speaker": "Watcharaporn Donsang - วัชราภรณ์ ดอนแสง · CodeKids Team"
     },
     {
       "id": 70,
@@ -711,9 +711,9 @@
       "stage": "W",
       "start": "10:30",
       "end": "12:00",
-      "type": "Presentation",
-      "title": "Bitcoin for Kids - การเงิน วัยใส และอนาคตของชาติ",
-      "speaker": "Watcharaporn Donsang · CodeKids Team"
+      "type": "Project Presentation",
+      "title": "Bitcoin for Kids - การเงิน ชีวิต และอนาคตของชาติ (TH/EN)",
+      "speaker": "Watcharaporn Donsang - วัชราภรณ์ ดอนแสง · CodeKids Team"
     },
     {
       "id": 71,
@@ -722,8 +722,8 @@
       "start": "12:40",
       "end": "13:10",
       "type": "Keynote",
-      "title": "The Bitcoin Merchant Toolkit: Smart Coin System",
-      "speaker": "Chanwut Norachan"
+      "title": "The Bitcoin Merchant Toolkit: Smart Coin System - เปิดโปรเจกต์โครงข่ายสารพัดรับจ้าง (TH/EN)",
+      "speaker": "Chanwut Norachan - ชาญวุฒิ นรชาญ"
     },
     {
       "id": 72,
@@ -732,8 +732,8 @@
       "start": "13:15",
       "end": "13:45",
       "type": "Keynote",
-      "title": "The Bitcoin Merchant Toolkit: Inw Cash PoS",
-      "speaker": "Pruk Sasinghon"
+      "title": "The Bitcoin Merchant Toolkit: Inw Cash PoS - เปิดโปรเจกต์ระบบขายหน้าร้านผ่านสายฟ้า (TH/EN)",
+      "speaker": "Dr.Pruk Sasithong - ดร.พฤกษ์ สระศรีทอง"
     },
     {
       "id": 73,
@@ -742,20 +742,2035 @@
       "start": "13:50",
       "end": "14:20",
       "type": "Keynote",
-      "title": "The Bitcoin Merchant Toolkit: MEKHA",
-      "speaker": "Siraphop Nilobode"
+      "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
+      "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
     },
     {
-      "id": 74,
+      "id": 1015,
       "day": 2,
       "stage": "W",
       "start": "14:25",
-      "end": "14:55",
-      "type": "Presentation",
-      "title": "Multisig Multi-vendor - ความรู้เรื่องกระเป๋าหลายลายเซ็น",
-      "speaker": "Piriya Sambandaraksa"
+      "end": "15:55",
+      "type": "Project Presentation",
+      "title": "Multisig Multi-vendor - อาจารย์ต๊ำ จับมือทำ มัลติซิก (TH/EN)",
+      "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
     }
   ],
-  "changes": [],
-  "notes": "Initial snapshot from screenshots dated 2026-11-03; not automatically verified."
+  "changes": [
+    {
+      "kind": "updated",
+      "id": 0,
+      "fields": [
+        "type"
+      ],
+      "previous": {
+        "id": 0,
+        "day": 1,
+        "stage": "M",
+        "start": "08:30",
+        "end": "09:00",
+        "type": "Welcome",
+        "title": "Arrival & Welcome / Seating",
+        "speaker": ""
+      },
+      "current": {
+        "id": 0,
+        "day": 1,
+        "stage": "M",
+        "start": "08:30",
+        "end": "09:00",
+        "type": "Arrival & Welcome",
+        "title": "Arrival & Welcome / Seating",
+        "speaker": ""
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 1,
+      "fields": [
+        "title",
+        "speaker",
+        "type"
+      ],
+      "previous": {
+        "id": 1,
+        "day": 1,
+        "stage": "M",
+        "start": "09:00",
+        "end": "09:15",
+        "type": "Opening",
+        "title": "What is Bitcoin, What is not Bitcoin - สินทรัพย์หนึ่งเดียวที่โลกไม่เคยมี",
+        "speaker": "Piriya Sambandaraksa"
+      },
+      "current": {
+        "id": 1,
+        "day": 1,
+        "stage": "M",
+        "start": "09:00",
+        "end": "09:15",
+        "type": "Opening Ceremony",
+        "title": "What is Bitcoin, What is not Bitcoin - สินทรัพย์หนึ่งเดียวที่โลกไม่เคยมี (TH/EN)",
+        "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 3,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 3,
+        "day": 1,
+        "stage": "M",
+        "start": "09:20",
+        "end": "09:40",
+        "type": "Keynote",
+        "title": "Nation-State Game Theory: Why Asia’s Central Banks Will Capitulate to Bitcoin",
+        "speaker": "Jack Tinney"
+      },
+      "current": {
+        "id": 3,
+        "day": 1,
+        "stage": "M",
+        "start": "09:20",
+        "end": "09:40",
+        "type": "Keynote",
+        "title": "Nation-State Game Theory: Why Asia’s Central Banks Will Capitulate to Bitcoin (EN/TH)",
+        "speaker": "Jack Tinney"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 4,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 4,
+        "day": 1,
+        "stage": "M",
+        "start": "09:40",
+        "end": "10:25",
+        "type": "Panel",
+        "title": "The Future of Thai Baht - อนาคตเงินบาทและชาติไทย",
+        "speaker": "Udomsak Rakwongwan · Boonyavee Phlayphan · Panchita Asavateeranun"
+      },
+      "current": {
+        "id": 4,
+        "day": 1,
+        "stage": "M",
+        "start": "09:40",
+        "end": "10:25",
+        "type": "Panel",
+        "title": "The Future of Thai Baht - อนาคตเงินบาทและชาติไทย (TH/EN)",
+        "speaker": "Asst. Prof. Dr.Udomsak Rakwongwan - ผศ.ดร.อุดมศักดิ์ รักวงษ์วาน · Boonyavee Phlayphan - บุณยวีย์ พลายพันธุ์ · (Mod) Panchita Asavateeranun - พัณณ์ชิตา อัศวธีรานันท์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 5,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 5,
+        "day": 1,
+        "stage": "M",
+        "start": "10:25",
+        "end": "10:50",
+        "type": "Keynote",
+        "title": "Bitcoin and Thailand’s Energy Equation - แบ่งพลังงานประเทศไทย มาขุดและเก็บบิตคอยน์",
+        "speaker": "Napon Hongsakulvasu"
+      },
+      "current": {
+        "id": 5,
+        "day": 1,
+        "stage": "M",
+        "start": "10:25",
+        "end": "10:50",
+        "type": "Keynote",
+        "title": "Bitcoin and Thailand’s Energy Equation - แบ่งพลังงานประเทศไทย มาขุดและเก็บบิตคอยน์ (TH/EN)",
+        "speaker": "Asst. Prof. Dr.Napon Hongsakulvasu - ผศ. ดร.ณพล หงสกุลวสุ"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 6,
+      "fields": [
+        "end",
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 6,
+        "day": 1,
+        "stage": "M",
+        "start": "10:50",
+        "end": "11:15",
+        "type": "Keynote",
+        "title": "Global Financial Control Grid - เงินในฐานะเครื่องมือควบคุมโลก",
+        "speaker": "Sothida Chotvijit"
+      },
+      "current": {
+        "id": 6,
+        "day": 1,
+        "stage": "M",
+        "start": "10:50",
+        "end": "11:20",
+        "type": "Keynote",
+        "title": "Global Financial Control Grid - เงินในฐานะเครื่องมือควบคุมโลก (TH/EN)",
+        "speaker": "Sothida Chotvijit - โศธิดา โชติวิจิตร"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 7,
+      "fields": [
+        "start",
+        "end",
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 7,
+        "day": 1,
+        "stage": "M",
+        "start": "11:15",
+        "end": "11:45",
+        "type": "Keynote",
+        "title": "The Ultimate Mission of a Bitcoiner - สิ่งที่ต้องทำก่อนตาย ของชายแท้บิตคอยเนอร์",
+        "speaker": "Wichit Saiklao"
+      },
+      "current": {
+        "id": 7,
+        "day": 1,
+        "stage": "M",
+        "start": "11:20",
+        "end": "11:50",
+        "type": "Keynote",
+        "title": "The Ultimate Mission of a Bitcoiner - สิ่งที่ต้องทำก่อนตาย ของชายแท้บิตคอยเนอร์ (TH/EN)",
+        "speaker": "Dr.Wichit Saiklao - ดร.วิชิต ซ้ายเกล้า"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 8,
+      "fields": [
+        "start",
+        "end",
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 8,
+        "day": 1,
+        "stage": "M",
+        "start": "11:45",
+        "end": "12:05",
+        "type": "Keynote",
+        "title": "80 BTC Gone From a Hardware Wallet: 5 Ways Hackers Steal Your Bitcoin",
+        "speaker": "Saharat Anuwatmatee"
+      },
+      "current": {
+        "id": 8,
+        "day": 1,
+        "stage": "M",
+        "start": "11:50",
+        "end": "12:10",
+        "type": "Keynote",
+        "title": "80 BTC Gone From a Hardware Wallet: 5 Ways Hackers Steal Your Bitcoin - 5 ท่ามาตรฐานที่โจรใช้ขโมย BTC ของคุณ (TH/EN)",
+        "speaker": "Saharat Anuwatmatee - สหรัฐ อนุวัตเมธี"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 9,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 9,
+        "day": 1,
+        "stage": "M",
+        "start": "12:05",
+        "end": "13:00",
+        "type": "Break",
+        "title": "Lunch Break - พักเที่ยง",
+        "speaker": ""
+      },
+      "current": {
+        "id": 9,
+        "day": 1,
+        "stage": "M",
+        "start": "12:10",
+        "end": "12:40",
+        "type": "Break",
+        "title": "Lunch Break - พักเที่ยง",
+        "speaker": ""
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 10,
+      "fields": [
+        "start",
+        "end",
+        "title"
+      ],
+      "previous": {
+        "id": 10,
+        "day": 1,
+        "stage": "M",
+        "start": "13:00",
+        "end": "13:25",
+        "type": "Keynote",
+        "title": "Beyond Borders: Bitcoin for the People Who Need It Most",
+        "speaker": "Jimmy Kostro"
+      },
+      "current": {
+        "id": 10,
+        "day": 1,
+        "stage": "M",
+        "start": "12:40",
+        "end": "13:05",
+        "type": "Keynote",
+        "title": "Beyond Borders: Bitcoin for the People Who Need It Most - บิตคอยน์ อิสรภาพไร้พรมแดน เพื่อผู้ที่ถูกลืม (EN/TH)",
+        "speaker": "Jimmy Kostro"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 22,
+      "fields": [
+        "stage",
+        "start",
+        "end",
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 22,
+        "day": 1,
+        "stage": "C",
+        "start": "12:10",
+        "end": "12:40",
+        "type": "Keynote",
+        "title": "The Dark Side of Real Estate - กลลวงอสังหาฯ ภาพลวงตาจากรัฐผู้หวังดี",
+        "speaker": "Sopon Pornchokchai"
+      },
+      "current": {
+        "id": 22,
+        "day": 1,
+        "stage": "M",
+        "start": "13:05",
+        "end": "13:25",
+        "type": "Keynote",
+        "title": "The Dark Side of Real Estate - กลลวงอสังหาฯ ภาพลวงตาจากรัฐผู้หวังดี (TH/EN)",
+        "speaker": "Dr.Sopon Pornchokchai - ดร.โสภณ พรโชคชัย"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 11,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 11,
+        "day": 1,
+        "stage": "M",
+        "start": "13:25",
+        "end": "13:50",
+        "type": "Keynote",
+        "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ",
+        "speaker": "Temyos Pandejpong"
+      },
+      "current": {
+        "id": 11,
+        "day": 1,
+        "stage": "M",
+        "start": "13:25",
+        "end": "13:50",
+        "type": "Keynote",
+        "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ",
+        "speaker": "Dr.Temyos Pandejpong - ดร.เต็มยศ ปาลเดชพงศ์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 12,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 12,
+        "day": 1,
+        "stage": "M",
+        "start": "13:50",
+        "end": "14:35",
+        "type": "Panel",
+        "title": "Build to Last - พ่อสร้าง ลูกสาน หลานสืบทอด",
+        "speaker": "Pun Paniangvait · Piriya Sambandaraksa · Warinmat Panyadee"
+      },
+      "current": {
+        "id": 12,
+        "day": 1,
+        "stage": "M",
+        "start": "13:50",
+        "end": "14:35",
+        "type": "Panel",
+        "title": "Build to Last - พ่อสร้าง ลูกสาน หลานสืบทอด (TH/EN)",
+        "speaker": "Pun Paniangvait - พันธ์ พะเนียงเวทย์ · Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์ · (Mod) Warinmat Panyadee - วรินท์มาศ ปัญญาดี"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 13,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 13,
+        "day": 1,
+        "stage": "M",
+        "start": "14:35",
+        "end": "15:20",
+        "type": "Keynote",
+        "title": "What is Quantum, What is not Quantum - ควอนตัมฯ กลัวทำไม เข้าใจหรือยัง?",
+        "speaker": "Jirawat Tangpanitanon · Piriya Sambandaraksa"
+      },
+      "current": {
+        "id": 13,
+        "day": 1,
+        "stage": "M",
+        "start": "14:35",
+        "end": "15:20",
+        "type": "Keynote",
+        "title": "What is Quantum, What is not Quantum - ควอนตัมฯ กลัวทำไม เข้าใจหรือยัง? (TH/EN)",
+        "speaker": "Dr.Jirawat Tangpanitanon - ดร.จิรวัฒน์ ตั้งปณิธานนท์ · (Mod) Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 14,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 14,
+        "day": 1,
+        "stage": "M",
+        "start": "15:20",
+        "end": "16:05",
+        "type": "Panel",
+        "title": "When Capital Goes Digital, Where Does Thailand Stand?",
+        "speaker": "Shok Shogun · Sanjay Popli"
+      },
+      "current": {
+        "id": 14,
+        "day": 1,
+        "stage": "M",
+        "start": "15:20",
+        "end": "16:05",
+        "type": "Panel",
+        "title": "When Capital Goes Digital, Where Does Thailand Stand? - วางโครงสร้างทุนอย่างเข้าใจ ก่อนสายเกินไปกับคนไทยทุกคน (TH/EN)",
+        "speaker": "Shok Shogun - โช๊ค โชกุล · Sanjay Popli - สัญชัย ปอปลี"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 15,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 15,
+        "day": 1,
+        "stage": "M",
+        "start": "16:05",
+        "end": "16:35",
+        "type": "Keynote",
+        "title": "Rethinking Risk: Why the Traditional Portfolio Needs a New Macro Hedge",
+        "speaker": "Thai Ratel"
+      },
+      "current": {
+        "id": 15,
+        "day": 1,
+        "stage": "M",
+        "start": "16:05",
+        "end": "16:35",
+        "type": "Keynote",
+        "title": "Rethinking Risk: Why the Traditional Portfolio Needs a New Macro Hedge - พอร์ตเปลี่ยนไป หลังเข้าใจบิตคอยน์ (TH/EN)",
+        "speaker": "Thai Ratel"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 16,
+      "fields": [
+        "title",
+        "speaker",
+        "type"
+      ],
+      "previous": {
+        "id": 16,
+        "day": 1,
+        "stage": "M",
+        "start": "16:35",
+        "end": "17:25",
+        "type": "Presentation",
+        "title": "0.1 BTC: A Starting Point for Financial Freedom",
+        "speaker": "Watcharaporn Donsang"
+      },
+      "current": {
+        "id": 16,
+        "day": 1,
+        "stage": "M",
+        "start": "16:35",
+        "end": "17:25",
+        "type": "Project Presentation",
+        "title": "0.1 BTC : A Starting Point for Financial Freedom - 0.1 BTC จุดเริ่มต้นอิสรภาพ (TH/EN)",
+        "speaker": "Watcharaporn Donsang - วัชราภรณ์ ดอนแสง"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1000,
+      "current": {
+        "id": 1000,
+        "day": 1,
+        "stage": "M",
+        "start": "17:25",
+        "end": "18:10",
+        "type": "Panel",
+        "title": "Thailand as a World Superpower by 2036 - ไทยจะเป็น มหาอำนาจ ในปี 2036 (TH/EN)",
+        "speaker": "Chaloke Sambandaraksa - โฉลก สัมพันธารักษ์ · (Mod) Warinmat Panyadee - วรินท์มาศ ปัญญาดี"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 18,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 18,
+        "day": 1,
+        "stage": "C",
+        "start": "09:55",
+        "end": "10:15",
+        "type": "Keynote",
+        "title": "Merchants, Not Maxis: Building on Bitcoin at 20",
+        "speaker": "Zach Wizenberg"
+      },
+      "current": {
+        "id": 18,
+        "day": 1,
+        "stage": "C",
+        "start": "09:55",
+        "end": "10:15",
+        "type": "Keynote",
+        "title": "Merchants, Not Maxis: Building on Bitcoin at 20 (EN/TH)",
+        "speaker": "Zach Wizenberg"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 19,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 19,
+        "day": 1,
+        "stage": "C",
+        "start": "10:20",
+        "end": "11:05",
+        "type": "Panel",
+        "title": "Bitcoin Education",
+        "speaker": "Keypleb · Marek Feder · Mada"
+      },
+      "current": {
+        "id": 19,
+        "day": 1,
+        "stage": "C",
+        "start": "10:20",
+        "end": "11:05",
+        "type": "Panel",
+        "title": "Bitcoin Education (EN/TH)",
+        "speaker": "Keypleb · Marek Feder · Mada (Pending Confirmation)"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 20,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 20,
+        "day": 1,
+        "stage": "C",
+        "start": "11:10",
+        "end": "11:40",
+        "type": "Keynote",
+        "title": "How to Start Bitcoin Business",
+        "speaker": "Kevin Loaec"
+      },
+      "current": {
+        "id": 20,
+        "day": 1,
+        "stage": "C",
+        "start": "11:10",
+        "end": "11:40",
+        "type": "Keynote",
+        "title": "How to Start Bitcoin Business (EN/TH)",
+        "speaker": "Kevin Loaec (Pending Confirmation)"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 21,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 21,
+        "day": 1,
+        "stage": "C",
+        "start": "11:45",
+        "end": "12:05",
+        "type": "Keynote",
+        "title": "Before The Block: Inside Bitcoin’s Mempool",
+        "speaker": "Soft Simon"
+      },
+      "current": {
+        "id": 21,
+        "day": 1,
+        "stage": "C",
+        "start": "11:45",
+        "end": "12:05",
+        "type": "Keynote",
+        "title": "Before The Block: Inside Bitcoin’s Mempool (EN/TH)",
+        "speaker": "Soft Simon"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 23,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 23,
+        "day": 1,
+        "stage": "C",
+        "start": "12:45",
+        "end": "13:15",
+        "type": "Keynote",
+        "title": "The Secret Weapon Against the Deep State - อาวุธลับงัดข้อกับรัฐลึก",
+        "speaker": "Piriya Sambandaraksa"
+      },
+      "current": {
+        "id": 23,
+        "day": 1,
+        "stage": "C",
+        "start": "12:45",
+        "end": "13:15",
+        "type": "Keynote",
+        "title": "The Secret Weapon Against the Deep State - อาวุธลับงัดข้อกับรัฐลึก (TH/EN)",
+        "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 24,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 24,
+        "day": 1,
+        "stage": "C",
+        "start": "13:20",
+        "end": "14:05",
+        "type": "Keynote",
+        "title": "Mass Psychosis - ขบวนการล้างสมองประชากรโลก",
+        "speaker": "Atapol Sughondhabirom"
+      },
+      "current": {
+        "id": 24,
+        "day": 1,
+        "stage": "C",
+        "start": "13:20",
+        "end": "14:05",
+        "type": "Keynote",
+        "title": "Mass Psychosis - ขบวนการล้างสมองประชากรโลก (TH/EN)",
+        "speaker": "Atapol Sughondhabirom · M.D. - นพ.อรรถพล สุคนธาภิรมย์ ณ พัทลุง"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 25,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 25,
+        "day": 1,
+        "stage": "C",
+        "start": "14:10",
+        "end": "14:55",
+        "type": "Keynote",
+        "title": "Mass Surveillance - มหาวิบัติสิ้นโลกส่วนตัว",
+        "speaker": "Devapoj Sambandaraksa"
+      },
+      "current": {
+        "id": 25,
+        "day": 1,
+        "stage": "C",
+        "start": "14:10",
+        "end": "14:55",
+        "type": "Keynote",
+        "title": "Mass Surveillance - มหาวิบัติสิ้นโลกส่วนตัว (TH/EN)",
+        "speaker": "Devapoj Sambandaraksa - เทวพจน์ สัมพันธารักษ์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 26,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 26,
+        "day": 1,
+        "stage": "C",
+        "start": "15:00",
+        "end": "15:15",
+        "type": "Keynote",
+        "title": "Get on The Ark",
+        "speaker": "Neil Woodfine"
+      },
+      "current": {
+        "id": 26,
+        "day": 1,
+        "stage": "C",
+        "start": "15:00",
+        "end": "15:15",
+        "type": "Keynote",
+        "title": "Get on The Ark (EN/TH)",
+        "speaker": "Neil Woodfine"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 27,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 27,
+        "day": 1,
+        "stage": "C",
+        "start": "15:20",
+        "end": "15:40",
+        "type": "Keynote",
+        "title": "Pay Join",
+        "speaker": "Dan Gould"
+      },
+      "current": {
+        "id": 27,
+        "day": 1,
+        "stage": "C",
+        "start": "15:20",
+        "end": "15:40",
+        "type": "Keynote",
+        "title": "Pay Join (EN/TH)",
+        "speaker": "Dan Gould"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 28,
+      "fields": [
+        "title",
+        "type"
+      ],
+      "previous": {
+        "id": 28,
+        "day": 1,
+        "stage": "C",
+        "start": "15:45",
+        "end": "16:05",
+        "type": "Presentation",
+        "title": "Mining Decentralization",
+        "speaker": "bit_aloo"
+      },
+      "current": {
+        "id": 28,
+        "day": 1,
+        "stage": "C",
+        "start": "15:45",
+        "end": "16:05",
+        "type": "Project Presentation",
+        "title": "Mining Decentralization (EN/TH)",
+        "speaker": "bit_aloo"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 29,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 29,
+        "day": 1,
+        "stage": "C",
+        "start": "16:10",
+        "end": "16:40",
+        "type": "Keynote",
+        "title": "Monetizing APIs with ngx-l402",
+        "speaker": "thesvn"
+      },
+      "current": {
+        "id": 29,
+        "day": 1,
+        "stage": "C",
+        "start": "16:10",
+        "end": "16:40",
+        "type": "Keynote",
+        "title": "Monetizing APIs with ngx-l402 (EN/TH)",
+        "speaker": "thesvn"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 30,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 30,
+        "day": 1,
+        "stage": "C",
+        "start": "16:45",
+        "end": "17:15",
+        "type": "Keynote",
+        "title": "Making Asia Bitcoin Capital",
+        "speaker": "Gaëlle Wizenberg"
+      },
+      "current": {
+        "id": 30,
+        "day": 1,
+        "stage": "C",
+        "start": "16:45",
+        "end": "17:15",
+        "type": "Keynote",
+        "title": "Making Asia Bitcoin Capital (EN/TH)",
+        "speaker": "Gaëlle Wizenberg"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 31,
+      "fields": [
+        "title",
+        "speaker",
+        "type"
+      ],
+      "previous": {
+        "id": 31,
+        "day": 1,
+        "stage": "W",
+        "start": "09:30",
+        "end": "10:00",
+        "type": "Presentation",
+        "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ",
+        "speaker": "Techin Keasornpan"
+      },
+      "current": {
+        "id": 31,
+        "day": 1,
+        "stage": "W",
+        "start": "09:30",
+        "end": "10:00",
+        "type": "Project Presentation",
+        "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ (TH/EN)",
+        "speaker": "Techin Keasornpan - เตชินท์ เกษรพันธ์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 32,
+      "fields": [
+        "title",
+        "speaker",
+        "type"
+      ],
+      "previous": {
+        "id": 32,
+        "day": 1,
+        "stage": "W",
+        "start": "10:00",
+        "end": "10:30",
+        "type": "Presentation",
+        "title": "Phylax - เปิดตัว Hardware Wallet ของคนตัวเล็ก",
+        "speaker": "Patipan Jeansertrong · Chanwut Norachan"
+      },
+      "current": {
+        "id": 32,
+        "day": 1,
+        "stage": "W",
+        "start": "10:00",
+        "end": "10:30",
+        "type": "Project Presentation",
+        "title": "Phylax - เปิดตัว Hardware Wallet ของคนตัวเล็ก (TH/EN)",
+        "speaker": "Patipan Jeansertrong - ปฏิภาณ เจนซื่อตรง · Chanwut Norachan - ชาญวุฒิ นรชาญ"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 33,
+      "fields": [
+        "title",
+        "type"
+      ],
+      "previous": {
+        "id": 33,
+        "day": 1,
+        "stage": "W",
+        "start": "10:30",
+        "end": "11:15",
+        "type": "Presentation",
+        "title": "Seed Key",
+        "speaker": "Hypno"
+      },
+      "current": {
+        "id": 33,
+        "day": 1,
+        "stage": "W",
+        "start": "10:30",
+        "end": "11:15",
+        "type": "Project Presentation",
+        "title": "Seed Key (EN/TH)",
+        "speaker": "Hypno"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 35,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 35,
+        "day": 1,
+        "stage": "W",
+        "start": "12:45",
+        "end": "13:15",
+        "type": "Keynote",
+        "title": "Wizardsardine and Liana Wallet",
+        "speaker": "Kevin Loaec"
+      },
+      "current": {
+        "id": 35,
+        "day": 1,
+        "stage": "W",
+        "start": "12:45",
+        "end": "13:15",
+        "type": "Keynote",
+        "title": "Wizardsardine and Liana Wallet (EN/TH)",
+        "speaker": "Kevin Loaec"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 36,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 36,
+        "day": 1,
+        "stage": "W",
+        "start": "14:00",
+        "end": "15:30",
+        "type": "Keynote",
+        "title": "International Projects",
+        "speaker": "Jimmy Kostro"
+      },
+      "current": {
+        "id": 36,
+        "day": 1,
+        "stage": "W",
+        "start": "14:00",
+        "end": "15:30",
+        "type": "Keynote",
+        "title": "International Projects (EN/TH)",
+        "speaker": "Jimmy Kostro"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 37,
+      "fields": [
+        "title",
+        "type"
+      ],
+      "previous": {
+        "id": 37,
+        "day": 1,
+        "stage": "W",
+        "start": "15:30",
+        "end": "16:10",
+        "type": "Presentation",
+        "title": "Self Custody Academy",
+        "speaker": "Andy Wong"
+      },
+      "current": {
+        "id": 37,
+        "day": 1,
+        "stage": "W",
+        "start": "15:30",
+        "end": "16:10",
+        "type": "Project Presentation",
+        "title": "Self Custody Academy (EN/TH)",
+        "speaker": "Andy Wong"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 38,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 38,
+        "day": 1,
+        "stage": "W",
+        "start": "16:10",
+        "end": "16:40",
+        "type": "Keynote",
+        "title": "Get on The Ark",
+        "speaker": "Neil Woodfine"
+      },
+      "current": {
+        "id": 38,
+        "day": 1,
+        "stage": "W",
+        "start": "16:10",
+        "end": "16:40",
+        "type": "Keynote",
+        "title": "Get on The Ark (EN/TH)",
+        "speaker": "Neil Woodfine"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 39,
+      "fields": [
+        "type"
+      ],
+      "previous": {
+        "id": 39,
+        "day": 2,
+        "stage": "M",
+        "start": "08:30",
+        "end": "09:00",
+        "type": "Welcome",
+        "title": "Arrival & Welcome / Seating",
+        "speaker": ""
+      },
+      "current": {
+        "id": 39,
+        "day": 2,
+        "stage": "M",
+        "start": "08:30",
+        "end": "09:00",
+        "type": "Arrival & Welcome",
+        "title": "Arrival & Welcome / Seating",
+        "speaker": ""
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1001,
+      "current": {
+        "id": 1001,
+        "day": 2,
+        "stage": "M",
+        "start": "09:00",
+        "end": "09:30",
+        "type": "Keynote",
+        "title": "The Price of Promises - องค์กรถ่วงความเจริญแห่งชาติ (TH/EN)",
+        "speaker": "Phatrapol Nuanyai - ภัทรพล นวลใย"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 41,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 41,
+        "day": 2,
+        "stage": "M",
+        "start": "09:30",
+        "end": "09:50",
+        "type": "Keynote",
+        "title": "Giving AI a Wallet: The Reality of Machine Money",
+        "speaker": "Pruk Sasinghon"
+      },
+      "current": {
+        "id": 41,
+        "day": 2,
+        "stage": "M",
+        "start": "09:30",
+        "end": "09:50",
+        "type": "Keynote",
+        "title": "Giving AI a Wallet: The Reality of Machine Money - ใช้บิตคอยน์ป้อนเอไอ ขุมพลังใหม่ของสมองกล (TH/EN)",
+        "speaker": "Dr.Pruk Sasithong - ดร.พฤกษ์ สระศรีทอง"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 42,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 42,
+        "day": 2,
+        "stage": "M",
+        "start": "09:50",
+        "end": "10:35",
+        "type": "Panel",
+        "title": "Corporate Treasuries: The New Standard for Preserving Value",
+        "speaker": "Chotiphan Tiwawat · Chawan Rattanakitkul · Mod Ladprada Pipat"
+      },
+      "current": {
+        "id": 42,
+        "day": 2,
+        "stage": "M",
+        "start": "09:50",
+        "end": "10:35",
+        "type": "Panel",
+        "title": "Corporate Treasuries: The New Standard for Preserving Value - ศักราชใหม่ บริษัทเก็บสำรองบิตคอยน์ (TH/EN)",
+        "speaker": "Chotiphun Tiaviwat - โชติพันธุ์ เตียวิวัฒน์ · Chawan Rattanakittakul - ชวัล รัตนกิจตระกูล · (Mod) Lapatrada Pipat - ลภัสรดา พิพัฒน์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 43,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 43,
+        "day": 2,
+        "stage": "M",
+        "start": "10:35",
+        "end": "11:05",
+        "type": "Keynote",
+        "title": "Energy Wars: Bitcoin Mining vs. AI & Data Centers",
+        "speaker": "Piccolo"
+      },
+      "current": {
+        "id": 43,
+        "day": 2,
+        "stage": "M",
+        "start": "10:35",
+        "end": "11:05",
+        "type": "Keynote",
+        "title": "Energy Wars: Bitcoin Mining vs. AI & Data Centers - สงครามเมกะวัตต์ ศตวรรษแห่งอนาคต (TH/EN)",
+        "speaker": "Piccolo"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 44,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 44,
+        "day": 2,
+        "stage": "M",
+        "start": "11:05",
+        "end": "11:25",
+        "type": "Keynote",
+        "title": "Age of Bitcoin: Thailand’s Game Goes Global",
+        "speaker": "Chumpol Wongmatkul"
+      },
+      "current": {
+        "id": 44,
+        "day": 2,
+        "stage": "M",
+        "start": "11:05",
+        "end": "11:25",
+        "type": "Keynote",
+        "title": "Age of Bitcoin: Thailand’s Game Goes Global - บอร์ดเกมสัญชาติไทย สะเทือนไกลไปทั่วโลก (TH/EN)",
+        "speaker": "Chumpol Wongmatikul - ชุมพล วงศ์มติกุล"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 45,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 45,
+        "day": 2,
+        "stage": "M",
+        "start": "11:25",
+        "end": "11:40",
+        "type": "Keynote",
+        "title": "Inside Southeast Asia’s Most Active Bitcoin Merchant Community",
+        "speaker": "Naphat Kaosuwan"
+      },
+      "current": {
+        "id": 45,
+        "day": 2,
+        "stage": "M",
+        "start": "11:25",
+        "end": "11:40",
+        "type": "Keynote",
+        "title": "Inside Southeast Asia’s Most Active Bitcoin Merchant Community - ประเทศไทย ผู้นำร้านค้ารับบิตคอยน์แห่งเอเชีย (TH/EN)",
+        "speaker": "Naphat Kaosuwan - ณภัทร ขาวสุวรรณ"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 47,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 47,
+        "day": 2,
+        "stage": "M",
+        "start": "12:40",
+        "end": "13:25",
+        "type": "Keynote",
+        "title": "The Bitcoin Tax Playbook - ภาษีคริปโตในประเทศไทย?",
+        "speaker": "Thanom Ketem · Siraphop Nilobode"
+      },
+      "current": {
+        "id": 47,
+        "day": 2,
+        "stage": "M",
+        "start": "12:40",
+        "end": "13:25",
+        "type": "Keynote",
+        "title": "The Bitcoin Tax Playbook - ภาษีแล้วมันเป็นหยัง? (TH/EN)",
+        "speaker": "Thanom Ketem - ถนอม เกตุเอม · Siraphop Nilbodee - สิรภพ นิลบดี"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1002,
+      "current": {
+        "id": 1002,
+        "day": 2,
+        "stage": "M",
+        "start": "13:25",
+        "end": "14:10",
+        "type": "Panel",
+        "title": "What Really Drives Bitcoin’s Price? - อนาคตบิตคอยน์ 100 ปี (TH/EN)",
+        "speaker": "Kavee Chukitkasem - กวี ชูกิจเกษม · Pokkhet Ratchakitprakarn - ปกเขตร รัชกิจประการ · (Mod) Lapatrada Pipat - ลภัสรดา พิพัฒน์"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1003,
+      "current": {
+        "id": 1003,
+        "day": 2,
+        "stage": "M",
+        "start": "14:10",
+        "end": "14:30",
+        "type": "Keynote",
+        "title": "Unlocking Bitcoin: From Collateral to Capital - เปลี่ยนบิตคอยน์ของคุณ เป็นทุนทางธุรกิจ (TH/EN)",
+        "speaker": "Natsuda Bhukkanasut - ณัทสุดา พุกกะณะสุต"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 50,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 50,
+        "day": 2,
+        "stage": "M",
+        "start": "14:30",
+        "end": "14:50",
+        "type": "Panel",
+        "title": "Capital in Motion: Decoding Bitcoin’s Price",
+        "speaker": "Peeraphat Hankongkaew"
+      },
+      "current": {
+        "id": 50,
+        "day": 2,
+        "stage": "M",
+        "start": "14:30",
+        "end": "14:50",
+        "type": "Panel",
+        "title": "Capital in Motion: Decoding Bitcoin's Price - พลวัตกระแสเงินทุนโลกกับราคาบิตคอยน์ (TH/EN)",
+        "speaker": "Peeraphat Hankongkaew - พีรพัฒน์ หาญคงแก้ว"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1004,
+      "current": {
+        "id": 1004,
+        "day": 2,
+        "stage": "M",
+        "start": "14:50",
+        "end": "15:20",
+        "type": "Panel",
+        "title": "Hunting the Invisible - ไล่ล่าอาชญากรไร้เงา ภารกิจสืบสวนยุคใหม่ (TH/EN)",
+        "speaker": "Pol.Maj.Pattrawudh Damrad - ว่าที่ พ.ต.ต.ภัทราวุธ ดำราษฎร์ · (Mod) Nattayot Seehabua - ณัฐยศ สีหาบัว"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1005,
+      "current": {
+        "id": 1005,
+        "day": 2,
+        "stage": "M",
+        "start": "15:20",
+        "end": "16:05",
+        "type": "Panel",
+        "title": "Thailand's Cost of Ignoring Bitcoin - เมื่อเลี่ยงไม่ได้ หรือนี่คือวิธีที่ไทยจะเข้าร่วม? (TH/EN)",
+        "speaker": "Sqn Ldr Sita Divari - น.ต.ศิธา ทิวารี · Dr.Natee Theppot - ดร.นที เทพโภชน์ · (Mod) Tanyaluk Kovintasetha - ธัญญลักษณ์ โควินทเศรษฐ"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1006,
+      "current": {
+        "id": 1006,
+        "day": 2,
+        "stage": "M",
+        "start": "16:05",
+        "end": "16:50",
+        "type": "Panel",
+        "title": "The Generational Wealth - เลือดเนื้อ ความหวัง ความมั่งคั่ง อนาคต (TH/EN)",
+        "speaker": "Dr.Wichit Saiklao - ดร.วิชิต ซ้ายเกล้า · Jakkapong Mespan - จักรพงษ์ เมษพันธุ์ · (Mod) Juranon Burapaka - จุรานนท์ บุระผากา"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 54,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 54,
+        "day": 2,
+        "stage": "M",
+        "start": "16:50",
+        "end": "17:50",
+        "type": "Panel",
+        "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community",
+        "speaker": "Napatsun Chatchayaladisri · Nattayot Sreebua · Sutthikeat Sirivoradej · Habib Kodea · Sarun Viriyasilpong · Mod Jutarat Singkaeo"
+      },
+      "current": {
+        "id": 54,
+        "day": 2,
+        "stage": "M",
+        "start": "16:50",
+        "end": "17:50",
+        "type": "Panel",
+        "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
+        "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Jutarat Singkaeo - จุฑารัตน์ สิงห์แก้ว"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1007,
+      "current": {
+        "id": 1007,
+        "day": 2,
+        "stage": "M",
+        "start": "17:50",
+        "end": "18:20",
+        "type": "Keynote",
+        "title": "Where were we? - พวกเราคนไทยอยู่ตรงไหนของแผนที่โลก? (TH/EN)",
+        "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1008,
+      "current": {
+        "id": 1008,
+        "day": 2,
+        "stage": "C",
+        "start": "09:05",
+        "end": "09:35",
+        "type": "Keynote",
+        "title": "Home Mining - เสียบปลั๊ก รับตังค์ (TH/EN)",
+        "speaker": "Piccolo"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 57,
+      "fields": [
+        "title",
+        "speaker",
+        "type"
+      ],
+      "previous": {
+        "id": 57,
+        "day": 2,
+        "stage": "C",
+        "start": "09:40",
+        "end": "10:10",
+        "type": "Presentation",
+        "title": "The Bitcoin Educator’s Journey - จากผู้สอนสู่ผู้สร้างการเรียนรู้",
+        "speaker": "Siraphop Nilobode"
+      },
+      "current": {
+        "id": 57,
+        "day": 2,
+        "stage": "C",
+        "start": "09:40",
+        "end": "10:10",
+        "type": "Project Presentation",
+        "title": "The Bitcoin Educator’s Journey - ปั้นครูสู่แนวหน้าอุตสาหกรรมบิตคอยน์ (TH/EN)",
+        "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1009,
+      "current": {
+        "id": 1009,
+        "day": 2,
+        "stage": "C",
+        "start": "10:15",
+        "end": "10:45",
+        "type": "Keynote",
+        "title": "Self-custody 101 - เก็บบิตคอยน์ให้พ้นมือเมีย (TH/EN)",
+        "speaker": "Chollatis Maneewong - ชลธิศ มณีวงษ์"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1010,
+      "current": {
+        "id": 1010,
+        "day": 2,
+        "stage": "C",
+        "start": "10:50",
+        "end": "11:20",
+        "type": "Keynote",
+        "title": "Hardware Wallet: Secure Element Chip - ชิ้นส่วนตัวเล็ก แต่ปกป้องเรื่องใหญ่ (TH/EN)",
+        "speaker": "Suppakrit Boonsat - ศุภกฤษฎ์ บุญสาตร์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 60,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 60,
+        "day": 2,
+        "stage": "C",
+        "start": "11:25",
+        "end": "11:40",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: MEKHA",
+        "speaker": "Siraphop Nilobode"
+      },
+      "current": {
+        "id": 60,
+        "day": 2,
+        "stage": "C",
+        "start": "11:25",
+        "end": "11:40",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
+        "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 61,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 61,
+        "day": 2,
+        "stage": "C",
+        "start": "11:45",
+        "end": "12:00",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: Smart Coin System",
+        "speaker": "Chanwut Norachan"
+      },
+      "current": {
+        "id": 61,
+        "day": 2,
+        "stage": "C",
+        "start": "11:45",
+        "end": "12:00",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: Smart Coin System - เปิดโปรเจกต์โครงข่ายสารพัดรับจ้าง (TH/EN)",
+        "speaker": "Chanwut Norachan - ชาญวุฒิ นรชาญ"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 62,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 62,
+        "day": 2,
+        "stage": "C",
+        "start": "12:05",
+        "end": "12:20",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: Inw Cash PoS",
+        "speaker": "Pruk Sasinghon"
+      },
+      "current": {
+        "id": 62,
+        "day": 2,
+        "stage": "C",
+        "start": "12:05",
+        "end": "12:20",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: Inw Cash PoS - เปิดโปรเจกต์ระบบขายหน้าร้านผ่านสายฟ้า (TH/EN)",
+        "speaker": "Dr.Pruk Sasithong - ดร.พฤกษ์ สระศรีทอง"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1011,
+      "current": {
+        "id": 1011,
+        "day": 2,
+        "stage": "C",
+        "start": "12:35",
+        "end": "13:05",
+        "type": "Keynote",
+        "title": "Buy or Mine - มนุษย์เงินเดือน เดินหน้าซื้อ หรือวางเครื่องขุด (TH/EN)",
+        "speaker": "Sakkarin Borisut - ศักรินทร์ บริสุทธิ์"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1012,
+      "current": {
+        "id": 1012,
+        "day": 2,
+        "stage": "C",
+        "start": "13:10",
+        "end": "14:10",
+        "type": "Panel",
+        "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
+        "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 65,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 65,
+        "day": 2,
+        "stage": "C",
+        "start": "14:15",
+        "end": "14:45",
+        "type": "Keynote",
+        "title": "Decentralized Equilibrium for Bitcoin Mining",
+        "speaker": "Manuel Mueller-Frank"
+      },
+      "current": {
+        "id": 65,
+        "day": 2,
+        "stage": "C",
+        "start": "14:15",
+        "end": "14:45",
+        "type": "Keynote",
+        "title": "Decentralized Equilibrium for Bitcoin Mining (EN/TH)",
+        "speaker": "Manuel Mueller-Frank"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 66,
+      "fields": [
+        "title"
+      ],
+      "previous": {
+        "id": 66,
+        "day": 2,
+        "stage": "C",
+        "start": "14:50",
+        "end": "15:20",
+        "type": "Keynote",
+        "title": "Beauty Bitcoiner",
+        "speaker": "Shambhavi Soni · Mango"
+      },
+      "current": {
+        "id": 66,
+        "day": 2,
+        "stage": "C",
+        "start": "14:50",
+        "end": "15:20",
+        "type": "Keynote",
+        "title": "Beauty Bitcoiner (EN/TH)",
+        "speaker": "Shambhavi Soni · Mango"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 67,
+      "fields": [
+        "title",
+        "type"
+      ],
+      "previous": {
+        "id": 67,
+        "day": 2,
+        "stage": "C",
+        "start": "15:25",
+        "end": "15:55",
+        "type": "Presentation",
+        "title": "Bitcoin Kernel Demonstration",
+        "speaker": "yuvicc C"
+      },
+      "current": {
+        "id": 67,
+        "day": 2,
+        "stage": "C",
+        "start": "15:25",
+        "end": "15:55",
+        "type": "Project Presentation",
+        "title": "Bitcoin Kernel Demonstration (EN/TH)",
+        "speaker": "yuvicc C"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1013,
+      "current": {
+        "id": 1013,
+        "day": 2,
+        "stage": "C",
+        "start": "16:00",
+        "end": "16:30",
+        "type": "Keynote",
+        "title": "BitVN (EN/TH)",
+        "speaker": "Fabian"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1014,
+      "current": {
+        "id": 1014,
+        "day": 2,
+        "stage": "W",
+        "start": "09:00",
+        "end": "10:30",
+        "type": "Project Presentation",
+        "title": "Bitcoin for Parents - ครอบครัวคือพื้นที่ปลอดภัย เริ่มจากเปิดใจคุยเรื่องเงิน (TH/EN)",
+        "speaker": "Watcharaporn Donsang - วัชราภรณ์ ดอนแสง · CodeKids Team"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 70,
+      "fields": [
+        "title",
+        "speaker",
+        "type"
+      ],
+      "previous": {
+        "id": 70,
+        "day": 2,
+        "stage": "W",
+        "start": "10:30",
+        "end": "12:00",
+        "type": "Presentation",
+        "title": "Bitcoin for Kids - การเงิน วัยใส และอนาคตของชาติ",
+        "speaker": "Watcharaporn Donsang · CodeKids Team"
+      },
+      "current": {
+        "id": 70,
+        "day": 2,
+        "stage": "W",
+        "start": "10:30",
+        "end": "12:00",
+        "type": "Project Presentation",
+        "title": "Bitcoin for Kids - การเงิน ชีวิต และอนาคตของชาติ (TH/EN)",
+        "speaker": "Watcharaporn Donsang - วัชราภรณ์ ดอนแสง · CodeKids Team"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 71,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 71,
+        "day": 2,
+        "stage": "W",
+        "start": "12:40",
+        "end": "13:10",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: Smart Coin System",
+        "speaker": "Chanwut Norachan"
+      },
+      "current": {
+        "id": 71,
+        "day": 2,
+        "stage": "W",
+        "start": "12:40",
+        "end": "13:10",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: Smart Coin System - เปิดโปรเจกต์โครงข่ายสารพัดรับจ้าง (TH/EN)",
+        "speaker": "Chanwut Norachan - ชาญวุฒิ นรชาญ"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 72,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 72,
+        "day": 2,
+        "stage": "W",
+        "start": "13:15",
+        "end": "13:45",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: Inw Cash PoS",
+        "speaker": "Pruk Sasinghon"
+      },
+      "current": {
+        "id": 72,
+        "day": 2,
+        "stage": "W",
+        "start": "13:15",
+        "end": "13:45",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: Inw Cash PoS - เปิดโปรเจกต์ระบบขายหน้าร้านผ่านสายฟ้า (TH/EN)",
+        "speaker": "Dr.Pruk Sasithong - ดร.พฤกษ์ สระศรีทอง"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 73,
+      "fields": [
+        "title",
+        "speaker"
+      ],
+      "previous": {
+        "id": 73,
+        "day": 2,
+        "stage": "W",
+        "start": "13:50",
+        "end": "14:20",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: MEKHA",
+        "speaker": "Siraphop Nilobode"
+      },
+      "current": {
+        "id": 73,
+        "day": 2,
+        "stage": "W",
+        "start": "13:50",
+        "end": "14:20",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
+        "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1015,
+      "current": {
+        "id": 1015,
+        "day": 2,
+        "stage": "W",
+        "start": "14:25",
+        "end": "15:55",
+        "type": "Project Presentation",
+        "title": "Multisig Multi-vendor - อาจารย์ต๊ำ จับมือทำ มัลติซิก (TH/EN)",
+        "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 17,
+      "previous": {
+        "id": 17,
+        "day": 1,
+        "stage": "M",
+        "start": "17:25",
+        "end": "18:10",
+        "type": "Panel",
+        "title": "Thailand as a World Superpower by 2036",
+        "speaker": "Chaloke Sambandaraksa · Warinmat Panyadee"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 40,
+      "previous": {
+        "id": 40,
+        "day": 2,
+        "stage": "M",
+        "start": "09:00",
+        "end": "09:30",
+        "type": "Keynote",
+        "title": "The Price of Promises - องค์กรปกครองราชการไทย จะไปทางไหน?",
+        "speaker": "Phatrapol Nuanyai"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 48,
+      "previous": {
+        "id": 48,
+        "day": 2,
+        "stage": "M",
+        "start": "13:25",
+        "end": "14:10",
+        "type": "Panel",
+        "title": "What Really Drives Bitcoin’s Price? - อะไรคือสิ่งที่กำหนดราคา BTC",
+        "speaker": "Kayce Chutkaseam · Pokkhet Ratchaprakarn · Mod Ladprada Pipat"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 49,
+      "previous": {
+        "id": 49,
+        "day": 2,
+        "stage": "M",
+        "start": "14:10",
+        "end": "14:30",
+        "type": "Keynote",
+        "title": "Unlocking Bitcoin: From Collateral to Capital",
+        "speaker": "Natsuda Bhukkamsut"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 51,
+      "previous": {
+        "id": 51,
+        "day": 2,
+        "stage": "M",
+        "start": "14:50",
+        "end": "15:20",
+        "type": "Panel",
+        "title": "Hunting the Invisible - ไล่ล่าอาชญากรรมในคริปโต",
+        "speaker": "Pui Mai · Mod Nattayot Sreebua"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 52,
+      "previous": {
+        "id": 52,
+        "day": 2,
+        "stage": "M",
+        "start": "15:20",
+        "end": "16:05",
+        "type": "Panel",
+        "title": "Thailand’s Cost of Ignoring Bitcoin - เสียอะไรไปถ้าไม่ลงมือ?",
+        "speaker": "Sita Divari · Natee Theppot · Tanyaluk Kovintasecha"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 53,
+      "previous": {
+        "id": 53,
+        "day": 2,
+        "stage": "M",
+        "start": "16:05",
+        "end": "16:50",
+        "type": "Panel",
+        "title": "The Generational Wealth - ส่งต่อเงิน ความมั่งคั่งจากรุ่นสู่รุ่น",
+        "speaker": "Wichit Saiklao · Jakkapong Mespan · Jitron Buranakra"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 55,
+      "previous": {
+        "id": 55,
+        "day": 2,
+        "stage": "M",
+        "start": "17:50",
+        "end": "18:20",
+        "type": "Keynote",
+        "title": "Where were we? - พวกเรามาไกลแค่ไหนจากวันแรก?",
+        "speaker": "Piriya Sambandaraksa"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 56,
+      "previous": {
+        "id": 56,
+        "day": 2,
+        "stage": "C",
+        "start": "09:00",
+        "end": "09:35",
+        "type": "Keynote",
+        "title": "Home Mining - เสียบปลั๊ก รับซัตส์",
+        "speaker": "Piccolo"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 58,
+      "previous": {
+        "id": 58,
+        "day": 2,
+        "stage": "C",
+        "start": "10:15",
+        "end": "10:45",
+        "type": "Keynote",
+        "title": "Self-custody 101 - เก็บบิตคอยน์ให้ปลอดภัยเริ่มต้นอย่างไร",
+        "speaker": "Cholatis Maneewong"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 59,
+      "previous": {
+        "id": 59,
+        "day": 2,
+        "stage": "C",
+        "start": "10:50",
+        "end": "11:20",
+        "type": "Keynote",
+        "title": "Hardware Wallet: Secure Element Chip - ชิปส่วนสำคัญเพื่อปกป้องสินทรัพย์",
+        "speaker": "Suppakrit Boonsat"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 63,
+      "previous": {
+        "id": 63,
+        "day": 2,
+        "stage": "C",
+        "start": "12:35",
+        "end": "13:05",
+        "type": "Keynote",
+        "title": "Buy or Mine - มุมมองในการถือบิตคอยน์ให้คุ้มค่า",
+        "speaker": "Sakkarin Uoris"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 64,
+      "previous": {
+        "id": 64,
+        "day": 2,
+        "stage": "C",
+        "start": "13:10",
+        "end": "14:10",
+        "type": "Panel",
+        "title": "Bitcoin Maxxing - โอกาสและวิธีใช้ชีวิตแบบบิตคอยน์",
+        "speaker": "Piyapong Boonyakarn · Techin Keasornpan · Juranon Urapa · Phovich Phuangphachinda"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 68,
+      "previous": {
+        "id": 68,
+        "day": 2,
+        "stage": "C",
+        "start": "16:00",
+        "end": "16:30",
+        "type": "Keynote",
+        "title": "BitVN",
+        "speaker": "Fabian"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 69,
+      "previous": {
+        "id": 69,
+        "day": 2,
+        "stage": "W",
+        "start": "09:00",
+        "end": "10:30",
+        "type": "Presentation",
+        "title": "Bitcoin for Parents - ครอบครัวที่มีบิตคอยน์",
+        "speaker": "Watcharaporn Donsang · CodeKids Team"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 74,
+      "previous": {
+        "id": 74,
+        "day": 2,
+        "stage": "W",
+        "start": "14:25",
+        "end": "14:55",
+        "type": "Presentation",
+        "title": "Multisig Multi-vendor - ความรู้เรื่องกระเป๋าหลายลายเซ็น",
+        "speaker": "Piriya Sambandaraksa"
+      }
+    }
+  ],
+  "notes": "Independent extraction of public official schedule; not organizer operated."
 }
