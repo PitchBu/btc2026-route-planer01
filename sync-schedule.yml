@@ -1,0 +1,32 @@
+name: Check official BTC2026 schedule
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: btc2026-schedule
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - run: npm run sync
+      - name: Commit a validated snapshot
+        run: |
+          if ! git diff --quiet -- data/schedule.json; then
+            git config user.name "btc2026-schedule-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/schedule.json
+            git commit -m "chore: refresh validated BTC2026 official schedule snapshot"
+            git push
+          fi
