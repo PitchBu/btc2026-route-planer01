@@ -28,6 +28,10 @@ async function extractDay(page,day){
     await tab.click();
   }
   await page.waitForTimeout(1400);
+  console.log(
+  `DEBUG DAY ${day}:`,
+  (await page.locator('body').innerText()).slice(0, 5000)
+);
   return await page.evaluate((day)=>{
     const trim=s=>String(s||'').replace(/\s+/g,' ').trim();
     const stages=[['M','Main Stage'],['C','Citadel Stage'],['W','Workshop Room']];
