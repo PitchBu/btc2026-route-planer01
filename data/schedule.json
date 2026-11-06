@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-05T00:42:04.405Z",
-  "lastChangedAt": "2026-11-05T00:42:04.405Z",
+  "verifiedAt": "2026-11-06T01:48:38.682Z",
+  "lastChangedAt": "2026-11-06T01:48:38.682Z",
   "sessions": [
     {
       "id": 0,
@@ -276,13 +276,13 @@
       "speaker": "Neil Woodfine"
     },
     {
-      "id": 27,
+      "id": 1017,
       "day": 1,
       "stage": "C",
       "start": "15:20",
       "end": "15:40",
       "type": "Keynote",
-      "title": "Pay Join (EN/TH)",
+      "title": "Payjoin (EN/TH)",
       "speaker": "Dan Gould"
     },
     {
@@ -312,7 +312,7 @@
       "start": "16:45",
       "end": "17:15",
       "type": "Keynote",
-      "title": "Making Asia Bitcoin Capital (EN/TH)",
+      "title": "Making Asia the Bitcoin Capital (EN/TH)",
       "speaker": "Gaëlle Wizenberg"
     },
     {
@@ -663,7 +663,7 @@
       "end": "14:10",
       "type": "Panel",
       "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
-      "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน"
+      "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · (Mod) Watcharapong Ritkhampee - วัชรพงศ์ ฤทธิ์คัมภีร์"
     },
     {
       "id": 65,
@@ -769,43 +769,84 @@
   "changes": [
     {
       "kind": "added",
-      "id": 1016,
+      "id": 1017,
       "current": {
-        "id": 1016,
+        "id": 1017,
         "day": 1,
-        "stage": "W",
-        "start": "13:20",
-        "end": "13:50",
+        "stage": "C",
+        "start": "15:20",
+        "end": "15:40",
         "type": "Keynote",
-        "title": "How Bitcoin and Lightning Could Reinvent Online Reviews and Trust",
-        "speaker": "Sahil Kaura"
+        "title": "Payjoin (EN/TH)",
+        "speaker": "Dan Gould"
       }
     },
     {
       "kind": "updated",
-      "id": 50,
+      "id": 30,
       "fields": [
-        "type"
+        "title"
       ],
       "previous": {
-        "id": 50,
-        "day": 2,
-        "stage": "M",
-        "start": "14:30",
-        "end": "14:50",
-        "type": "Panel",
-        "title": "Capital in Motion: Decoding Bitcoin's Price - พลวัตกระแสเงินทุนโลกกับราคาบิตคอยน์ (TH/EN)",
-        "speaker": "Peeraphat Hankongkaew - พีรพัฒน์ หาญคงแก้ว"
+        "id": 30,
+        "day": 1,
+        "stage": "C",
+        "start": "16:45",
+        "end": "17:15",
+        "type": "Keynote",
+        "title": "Making Asia Bitcoin Capital (EN/TH)",
+        "speaker": "Gaëlle Wizenberg"
       },
       "current": {
-        "id": 50,
-        "day": 2,
-        "stage": "M",
-        "start": "14:30",
-        "end": "14:50",
+        "id": 30,
+        "day": 1,
+        "stage": "C",
+        "start": "16:45",
+        "end": "17:15",
         "type": "Keynote",
-        "title": "Capital in Motion: Decoding Bitcoin's Price - พลวัตกระแสเงินทุนโลกกับราคาบิตคอยน์ (TH/EN)",
-        "speaker": "Peeraphat Hankongkaew - พีรพัฒน์ หาญคงแก้ว"
+        "title": "Making Asia the Bitcoin Capital (EN/TH)",
+        "speaker": "Gaëlle Wizenberg"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 1012,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 1012,
+        "day": 2,
+        "stage": "C",
+        "start": "13:10",
+        "end": "14:10",
+        "type": "Panel",
+        "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
+        "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน"
+      },
+      "current": {
+        "id": 1012,
+        "day": 2,
+        "stage": "C",
+        "start": "13:10",
+        "end": "14:10",
+        "type": "Panel",
+        "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
+        "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · (Mod) Watcharapong Ritkhampee - วัชรพงศ์ ฤทธิ์คัมภีร์"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 27,
+      "previous": {
+        "id": 27,
+        "day": 1,
+        "stage": "C",
+        "start": "15:20",
+        "end": "15:40",
+        "type": "Keynote",
+        "title": "Pay Join (EN/TH)",
+        "speaker": "Dan Gould"
       }
     }
   ],
