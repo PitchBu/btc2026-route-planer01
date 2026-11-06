@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-06T08:47:43.598Z",
-  "lastChangedAt": "2026-11-06T08:47:43.598Z",
+  "verifiedAt": "2026-11-06T21:44:14.065Z",
+  "lastChangedAt": "2026-11-06T21:44:14.065Z",
   "sessions": [
     {
       "id": 0,
@@ -336,13 +336,13 @@
       "speaker": "Patipan Jeansertrong - ปฏิภาณ เจนซื่อตรง · Chanwut Norachan - ชาญวุฒิ นรชาญ"
     },
     {
-      "id": 33,
+      "id": 1018,
       "day": 1,
       "stage": "W",
       "start": "10:30",
       "end": "11:15",
       "type": "Project Presentation",
-      "title": "Seed Key (EN/TH)",
+      "title": "Seed Keys: Comparing Seed Backups (EN/TH)",
       "speaker": "Hypno"
     },
     {
@@ -768,57 +768,31 @@
   ],
   "changes": [
     {
-      "kind": "updated",
-      "id": 30,
-      "fields": [
-        "end"
-      ],
-      "previous": {
-        "id": 30,
-        "day": 1,
-        "stage": "C",
-        "start": "16:45",
-        "end": "17:15",
-        "type": "Keynote",
-        "title": "Making Asia the Bitcoin Capital (EN/TH)",
-        "speaker": "Gaëlle Wizenberg"
-      },
+      "kind": "added",
+      "id": 1018,
       "current": {
-        "id": 30,
+        "id": 1018,
         "day": 1,
-        "stage": "C",
-        "start": "16:45",
-        "end": "17:05",
-        "type": "Keynote",
-        "title": "Making Asia the Bitcoin Capital (EN/TH)",
-        "speaker": "Gaëlle Wizenberg"
+        "stage": "W",
+        "start": "10:30",
+        "end": "11:15",
+        "type": "Project Presentation",
+        "title": "Seed Keys: Comparing Seed Backups (EN/TH)",
+        "speaker": "Hypno"
       }
     },
     {
-      "kind": "updated",
-      "id": 66,
-      "fields": [
-        "type"
-      ],
+      "kind": "removed",
+      "id": 33,
       "previous": {
-        "id": 66,
-        "day": 2,
-        "stage": "C",
-        "start": "14:50",
-        "end": "15:20",
-        "type": "Keynote",
-        "title": "Beauty Bitcoiner (EN/TH)",
-        "speaker": "Shambhavi Soni · Mango"
-      },
-      "current": {
-        "id": 66,
-        "day": 2,
-        "stage": "C",
-        "start": "14:50",
-        "end": "15:20",
-        "type": "Panel",
-        "title": "Beauty Bitcoiner (EN/TH)",
-        "speaker": "Shambhavi Soni · Mango"
+        "id": 33,
+        "day": 1,
+        "stage": "W",
+        "start": "10:30",
+        "end": "11:15",
+        "type": "Project Presentation",
+        "title": "Seed Key (EN/TH)",
+        "speaker": "Hypno"
       }
     }
   ],
