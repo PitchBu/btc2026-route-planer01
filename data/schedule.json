@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-06T01:48:38.682Z",
-  "lastChangedAt": "2026-11-06T01:48:38.682Z",
+  "verifiedAt": "2026-11-06T08:47:43.598Z",
+  "lastChangedAt": "2026-11-06T08:47:43.598Z",
   "sessions": [
     {
       "id": 0,
@@ -310,7 +310,7 @@
       "day": 1,
       "stage": "C",
       "start": "16:45",
-      "end": "17:15",
+      "end": "17:05",
       "type": "Keynote",
       "title": "Making Asia the Bitcoin Capital (EN/TH)",
       "speaker": "Gaëlle Wizenberg"
@@ -681,7 +681,7 @@
       "stage": "C",
       "start": "14:50",
       "end": "15:20",
-      "type": "Keynote",
+      "type": "Panel",
       "title": "Beauty Bitcoiner (EN/TH)",
       "speaker": "Shambhavi Soni · Mango"
     },
@@ -768,36 +768,12 @@
   ],
   "changes": [
     {
-      "kind": "added",
-      "id": 1017,
-      "current": {
-        "id": 1017,
-        "day": 1,
-        "stage": "C",
-        "start": "15:20",
-        "end": "15:40",
-        "type": "Keynote",
-        "title": "Payjoin (EN/TH)",
-        "speaker": "Dan Gould"
-      }
-    },
-    {
       "kind": "updated",
       "id": 30,
       "fields": [
-        "title"
+        "end"
       ],
       "previous": {
-        "id": 30,
-        "day": 1,
-        "stage": "C",
-        "start": "16:45",
-        "end": "17:15",
-        "type": "Keynote",
-        "title": "Making Asia Bitcoin Capital (EN/TH)",
-        "speaker": "Gaëlle Wizenberg"
-      },
-      "current": {
         "id": 30,
         "day": 1,
         "stage": "C",
@@ -806,47 +782,43 @@
         "type": "Keynote",
         "title": "Making Asia the Bitcoin Capital (EN/TH)",
         "speaker": "Gaëlle Wizenberg"
+      },
+      "current": {
+        "id": 30,
+        "day": 1,
+        "stage": "C",
+        "start": "16:45",
+        "end": "17:05",
+        "type": "Keynote",
+        "title": "Making Asia the Bitcoin Capital (EN/TH)",
+        "speaker": "Gaëlle Wizenberg"
       }
     },
     {
       "kind": "updated",
-      "id": 1012,
+      "id": 66,
       "fields": [
-        "speaker"
+        "type"
       ],
       "previous": {
-        "id": 1012,
+        "id": 66,
         "day": 2,
         "stage": "C",
-        "start": "13:10",
-        "end": "14:10",
-        "type": "Panel",
-        "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
-        "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน"
+        "start": "14:50",
+        "end": "15:20",
+        "type": "Keynote",
+        "title": "Beauty Bitcoiner (EN/TH)",
+        "speaker": "Shambhavi Soni · Mango"
       },
       "current": {
-        "id": 1012,
+        "id": 66,
         "day": 2,
         "stage": "C",
-        "start": "13:10",
-        "end": "14:10",
+        "start": "14:50",
+        "end": "15:20",
         "type": "Panel",
-        "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
-        "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · (Mod) Watcharapong Ritkhampee - วัชรพงศ์ ฤทธิ์คัมภีร์"
-      }
-    },
-    {
-      "kind": "removed",
-      "id": 27,
-      "previous": {
-        "id": 27,
-        "day": 1,
-        "stage": "C",
-        "start": "15:20",
-        "end": "15:40",
-        "type": "Keynote",
-        "title": "Pay Join (EN/TH)",
-        "speaker": "Dan Gould"
+        "title": "Beauty Bitcoiner (EN/TH)",
+        "speaker": "Shambhavi Soni · Mango"
       }
     }
   ],
