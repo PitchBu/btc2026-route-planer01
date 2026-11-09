@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-06T21:44:14.065Z",
-  "lastChangedAt": "2026-11-06T21:44:14.065Z",
+  "verifiedAt": "2026-11-09T02:14:41.385Z",
+  "lastChangedAt": "2026-11-09T02:14:41.385Z",
   "sessions": [
     {
       "id": 0,
@@ -132,7 +132,7 @@
       "start": "13:25",
       "end": "13:50",
       "type": "Keynote",
-      "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ",
+      "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ (TH/EN)",
       "speaker": "Dr.Temyos Pandejpong - ดร.เต็มยศ ปาลเดชพงศ์"
     },
     {
@@ -768,31 +768,30 @@
   ],
   "changes": [
     {
-      "kind": "added",
-      "id": 1018,
-      "current": {
-        "id": 1018,
-        "day": 1,
-        "stage": "W",
-        "start": "10:30",
-        "end": "11:15",
-        "type": "Project Presentation",
-        "title": "Seed Keys: Comparing Seed Backups (EN/TH)",
-        "speaker": "Hypno"
-      }
-    },
-    {
-      "kind": "removed",
-      "id": 33,
+      "kind": "updated",
+      "id": 11,
+      "fields": [
+        "title"
+      ],
       "previous": {
-        "id": 33,
+        "id": 11,
         "day": 1,
-        "stage": "W",
-        "start": "10:30",
-        "end": "11:15",
-        "type": "Project Presentation",
-        "title": "Seed Key (EN/TH)",
-        "speaker": "Hypno"
+        "stage": "M",
+        "start": "13:25",
+        "end": "13:50",
+        "type": "Keynote",
+        "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ",
+        "speaker": "Dr.Temyos Pandejpong - ดร.เต็มยศ ปาลเดชพงศ์"
+      },
+      "current": {
+        "id": 11,
+        "day": 1,
+        "stage": "M",
+        "start": "13:25",
+        "end": "13:50",
+        "type": "Keynote",
+        "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ (TH/EN)",
+        "speaker": "Dr.Temyos Pandejpong - ดร.เต็มยศ ปาลเดชพงศ์"
       }
     }
   ],
