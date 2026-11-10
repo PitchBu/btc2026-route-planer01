@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-09T02:14:41.385Z",
-  "lastChangedAt": "2026-11-09T02:14:41.385Z",
+  "verifiedAt": "2026-11-10T10:38:02.599Z",
+  "lastChangedAt": "2026-11-10T10:38:02.599Z",
   "sessions": [
     {
       "id": 0,
@@ -194,6 +194,16 @@
       "type": "Panel",
       "title": "Thailand as a World Superpower by 2036 - ไทยจะเป็น มหาอำนาจ ในปี 2036 (TH/EN)",
       "speaker": "Chaloke Sambandaraksa - โฉลก สัมพันธารักษ์ · (Mod) Warinmat Panyadee - วรินท์มาศ ปัญญาดี"
+    },
+    {
+      "id": 1019,
+      "day": 1,
+      "stage": "C",
+      "start": "09:05",
+      "end": "09:50",
+      "type": "Panel",
+      "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
+      "speaker": "Rob Hamilton (Pending Confirmation) · Kevin Loaec (Pending Confirmation) · Dan Gould"
     },
     {
       "id": 18,
@@ -768,30 +778,17 @@
   ],
   "changes": [
     {
-      "kind": "updated",
-      "id": 11,
-      "fields": [
-        "title"
-      ],
-      "previous": {
-        "id": 11,
-        "day": 1,
-        "stage": "M",
-        "start": "13:25",
-        "end": "13:50",
-        "type": "Keynote",
-        "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ",
-        "speaker": "Dr.Temyos Pandejpong - ดร.เต็มยศ ปาลเดชพงศ์"
-      },
+      "kind": "added",
+      "id": 1019,
       "current": {
-        "id": 11,
+        "id": 1019,
         "day": 1,
-        "stage": "M",
-        "start": "13:25",
-        "end": "13:50",
-        "type": "Keynote",
-        "title": "There Is No Free Lunch - ราคาที่ต้องจ่ายและปลายทางของรัฐสวัสดิการ (TH/EN)",
-        "speaker": "Dr.Temyos Pandejpong - ดร.เต็มยศ ปาลเดชพงศ์"
+        "stage": "C",
+        "start": "09:05",
+        "end": "09:50",
+        "type": "Panel",
+        "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
+        "speaker": "Rob Hamilton (Pending Confirmation) · Kevin Loaec (Pending Confirmation) · Dan Gould"
       }
     }
   ],
