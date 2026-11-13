@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-13T08:55:15.593Z",
-  "lastChangedAt": "2026-11-13T08:55:15.593Z",
+  "verifiedAt": "2026-11-13T22:18:43.973Z",
+  "lastChangedAt": "2026-11-13T22:18:43.973Z",
   "sessions": [
     {
       "id": 0,
@@ -223,7 +223,7 @@
       "end": "10:50",
       "type": "Panel",
       "title": "How to Orange-Pill (EN/TH)",
-      "speaker": "Keypleb · Marek Feder"
+      "speaker": "Keypleb · Marek Feder · (Mod) Jimmy Kostro"
     },
     {
       "id": 20,
@@ -716,21 +716,21 @@
       "speaker": "Manuel Mueller-Frank"
     },
     {
-      "id": 66,
+      "id": 1024,
       "day": 2,
       "stage": "C",
       "start": "14:50",
-      "end": "15:20",
+      "end": "15:35",
       "type": "Panel",
-      "title": "Beauty Bitcoiner (EN/TH)",
-      "speaker": "Shambhavi Soni · Mango"
+      "title": "Her Own Terms (EN/TH)",
+      "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Napatsanun Chatchayaladasiri"
     },
     {
       "id": 67,
       "day": 2,
       "stage": "C",
-      "start": "15:25",
-      "end": "15:55",
+      "start": "15:40",
+      "end": "16:10",
       "type": "Project Presentation",
       "title": "Bitcoin Kernel Demonstration (EN/TH)",
       "speaker": "yuvicc C"
@@ -739,8 +739,8 @@
       "id": 1013,
       "day": 2,
       "stage": "C",
-      "start": "16:00",
-      "end": "16:30",
+      "start": "16:15",
+      "end": "16:45",
       "type": "Keynote",
       "title": "BitVN (EN/TH)",
       "speaker": "Fabian"
@@ -809,140 +809,113 @@
   "changes": [
     {
       "kind": "updated",
-      "id": 20,
-      "fields": [
-        "end"
-      ],
-      "previous": {
-        "id": 20,
-        "day": 1,
-        "stage": "C",
-        "start": "10:55",
-        "end": "11:25",
-        "type": "Keynote",
-        "title": "How to Start Bitcoin Business (EN/TH)",
-        "speaker": "Kevin Loaec (Pending Confirmation)"
-      },
-      "current": {
-        "id": 20,
-        "day": 1,
-        "stage": "C",
-        "start": "10:55",
-        "end": "11:15",
-        "type": "Keynote",
-        "title": "How to Start Bitcoin Business (EN/TH)",
-        "speaker": "Kevin Loaec (Pending Confirmation)"
-      }
-    },
-    {
-      "kind": "updated",
-      "id": 21,
-      "fields": [
-        "start",
-        "end"
-      ],
-      "previous": {
-        "id": 21,
-        "day": 1,
-        "stage": "C",
-        "start": "11:30",
-        "end": "11:50",
-        "type": "Keynote",
-        "title": "Before The Block: Inside Bitcoin’s Mempool (EN/TH)",
-        "speaker": "Soft Simon"
-      },
-      "current": {
-        "id": 21,
-        "day": 1,
-        "stage": "C",
-        "start": "11:20",
-        "end": "11:40",
-        "type": "Keynote",
-        "title": "Before The Block: Inside Bitcoin’s Mempool (EN/TH)",
-        "speaker": "Soft Simon"
-      }
-    },
-    {
-      "kind": "updated",
-      "id": 1021,
-      "fields": [
-        "start",
-        "end"
-      ],
-      "previous": {
-        "id": 1021,
-        "day": 1,
-        "stage": "C",
-        "start": "11:55",
-        "end": "12:10",
-        "type": "Keynote",
-        "title": "What Comes After “Not Your Keys”? : Designing Self-Custody People Can Actually Use (EN/TH)",
-        "speaker": "Mineey"
-      },
-      "current": {
-        "id": 1021,
-        "day": 1,
-        "stage": "C",
-        "start": "11:45",
-        "end": "12:00",
-        "type": "Keynote",
-        "title": "What Comes After “Not Your Keys”? : Designing Self-Custody People Can Actually Use (EN/TH)",
-        "speaker": "Mineey"
-      }
-    },
-    {
-      "kind": "added",
-      "id": 1022,
-      "current": {
-        "id": 1022,
-        "day": 1,
-        "stage": "C",
-        "start": "12:05",
-        "end": "12:20",
-        "type": "Keynote",
-        "title": "Floresta: Bitcoin Beyond Third-Party Servers (EN/TH)",
-        "speaker": "Luis Schwab"
-      }
-    },
-    {
-      "kind": "added",
-      "id": 1023,
-      "current": {
-        "id": 1023,
-        "day": 1,
-        "stage": "C",
-        "start": "12:25",
-        "end": "12:40",
-        "type": "Keynote",
-        "title": "Beyond the Screen: Building Bitcoin Communities (EN/TH)",
-        "speaker": "Bitshala"
-      }
-    },
-    {
-      "kind": "updated",
-      "id": 35,
+      "id": 1020,
       "fields": [
         "speaker"
       ],
       "previous": {
-        "id": 35,
+        "id": 1020,
         "day": 1,
-        "stage": "W",
-        "start": "12:45",
-        "end": "13:15",
-        "type": "Keynote",
-        "title": "Wizardsardine and Liana Wallet (EN/TH)",
-        "speaker": "Kevin Loaec"
+        "stage": "C",
+        "start": "10:20",
+        "end": "10:50",
+        "type": "Panel",
+        "title": "How to Orange-Pill (EN/TH)",
+        "speaker": "Keypleb · Marek Feder"
       },
       "current": {
-        "id": 35,
+        "id": 1020,
         "day": 1,
-        "stage": "W",
-        "start": "12:45",
-        "end": "13:15",
+        "stage": "C",
+        "start": "10:20",
+        "end": "10:50",
+        "type": "Panel",
+        "title": "How to Orange-Pill (EN/TH)",
+        "speaker": "Keypleb · Marek Feder · (Mod) Jimmy Kostro"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1024,
+      "current": {
+        "id": 1024,
+        "day": 2,
+        "stage": "C",
+        "start": "14:50",
+        "end": "15:35",
+        "type": "Panel",
+        "title": "Her Own Terms (EN/TH)",
+        "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Napatsanun Chatchayaladasiri"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 67,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 67,
+        "day": 2,
+        "stage": "C",
+        "start": "15:25",
+        "end": "15:55",
+        "type": "Project Presentation",
+        "title": "Bitcoin Kernel Demonstration (EN/TH)",
+        "speaker": "yuvicc C"
+      },
+      "current": {
+        "id": 67,
+        "day": 2,
+        "stage": "C",
+        "start": "15:40",
+        "end": "16:10",
+        "type": "Project Presentation",
+        "title": "Bitcoin Kernel Demonstration (EN/TH)",
+        "speaker": "yuvicc C"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 1013,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 1013,
+        "day": 2,
+        "stage": "C",
+        "start": "16:00",
+        "end": "16:30",
         "type": "Keynote",
-        "title": "Wizardsardine and Liana Wallet (EN/TH)",
-        "speaker": "Kevin Loaec (Pending Confirmation)"
+        "title": "BitVN (EN/TH)",
+        "speaker": "Fabian"
+      },
+      "current": {
+        "id": 1013,
+        "day": 2,
+        "stage": "C",
+        "start": "16:15",
+        "end": "16:45",
+        "type": "Keynote",
+        "title": "BitVN (EN/TH)",
+        "speaker": "Fabian"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 66,
+      "previous": {
+        "id": 66,
+        "day": 2,
+        "stage": "C",
+        "start": "14:50",
+        "end": "15:20",
+        "type": "Panel",
+        "title": "Beauty Bitcoiner (EN/TH)",
+        "speaker": "Shambhavi Soni · Mango"
       }
     }
   ],
