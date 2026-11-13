@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-10T10:38:02.599Z",
-  "lastChangedAt": "2026-11-10T10:38:02.599Z",
+  "verifiedAt": "2026-11-13T01:48:16.506Z",
+  "lastChangedAt": "2026-11-13T01:48:16.506Z",
   "sessions": [
     {
       "id": 0,
@@ -216,21 +216,21 @@
       "speaker": "Zach Wizenberg"
     },
     {
-      "id": 19,
+      "id": 1020,
       "day": 1,
       "stage": "C",
       "start": "10:20",
-      "end": "11:05",
+      "end": "10:50",
       "type": "Panel",
-      "title": "Bitcoin Education (EN/TH)",
-      "speaker": "Keypleb · Marek Feder · Mada (Pending Confirmation)"
+      "title": "How to Orange-Pill (EN/TH)",
+      "speaker": "Keypleb · Marek Feder"
     },
     {
       "id": 20,
       "day": 1,
       "stage": "C",
-      "start": "11:10",
-      "end": "11:40",
+      "start": "10:55",
+      "end": "11:25",
       "type": "Keynote",
       "title": "How to Start Bitcoin Business (EN/TH)",
       "speaker": "Kevin Loaec (Pending Confirmation)"
@@ -239,11 +239,21 @@
       "id": 21,
       "day": 1,
       "stage": "C",
-      "start": "11:45",
-      "end": "12:05",
+      "start": "11:30",
+      "end": "11:50",
       "type": "Keynote",
       "title": "Before The Block: Inside Bitcoin’s Mempool (EN/TH)",
       "speaker": "Soft Simon"
+    },
+    {
+      "id": 1021,
+      "day": 1,
+      "stage": "C",
+      "start": "11:55",
+      "end": "12:10",
+      "type": "Keynote",
+      "title": "What Comes After “Not Your Keys”? : Designing Self-Custody People Can Actually Use (EN/TH)",
+      "speaker": "Mineey"
     },
     {
       "id": 23,
@@ -779,16 +789,100 @@
   "changes": [
     {
       "kind": "added",
-      "id": 1019,
+      "id": 1020,
       "current": {
-        "id": 1019,
+        "id": 1020,
         "day": 1,
         "stage": "C",
-        "start": "09:05",
-        "end": "09:50",
+        "start": "10:20",
+        "end": "10:50",
         "type": "Panel",
-        "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
-        "speaker": "Rob Hamilton (Pending Confirmation) · Kevin Loaec (Pending Confirmation) · Dan Gould"
+        "title": "How to Orange-Pill (EN/TH)",
+        "speaker": "Keypleb · Marek Feder"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 20,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 20,
+        "day": 1,
+        "stage": "C",
+        "start": "11:10",
+        "end": "11:40",
+        "type": "Keynote",
+        "title": "How to Start Bitcoin Business (EN/TH)",
+        "speaker": "Kevin Loaec (Pending Confirmation)"
+      },
+      "current": {
+        "id": 20,
+        "day": 1,
+        "stage": "C",
+        "start": "10:55",
+        "end": "11:25",
+        "type": "Keynote",
+        "title": "How to Start Bitcoin Business (EN/TH)",
+        "speaker": "Kevin Loaec (Pending Confirmation)"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 21,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 21,
+        "day": 1,
+        "stage": "C",
+        "start": "11:45",
+        "end": "12:05",
+        "type": "Keynote",
+        "title": "Before The Block: Inside Bitcoin’s Mempool (EN/TH)",
+        "speaker": "Soft Simon"
+      },
+      "current": {
+        "id": 21,
+        "day": 1,
+        "stage": "C",
+        "start": "11:30",
+        "end": "11:50",
+        "type": "Keynote",
+        "title": "Before The Block: Inside Bitcoin’s Mempool (EN/TH)",
+        "speaker": "Soft Simon"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1021,
+      "current": {
+        "id": 1021,
+        "day": 1,
+        "stage": "C",
+        "start": "11:55",
+        "end": "12:10",
+        "type": "Keynote",
+        "title": "What Comes After “Not Your Keys”? : Designing Self-Custody People Can Actually Use (EN/TH)",
+        "speaker": "Mineey"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 19,
+      "previous": {
+        "id": 19,
+        "day": 1,
+        "stage": "C",
+        "start": "10:20",
+        "end": "11:05",
+        "type": "Panel",
+        "title": "Bitcoin Education (EN/TH)",
+        "speaker": "Keypleb · Marek Feder · Mada (Pending Confirmation)"
       }
     }
   ],
