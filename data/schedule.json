@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-14T09:24:53.730Z",
-  "lastChangedAt": "2026-11-14T09:24:53.730Z",
+  "verifiedAt": "2026-11-14T15:55:36.165Z",
+  "lastChangedAt": "2026-11-14T15:55:36.165Z",
   "sessions": [
     {
       "id": 0,
@@ -203,7 +203,7 @@
       "end": "09:50",
       "type": "Panel",
       "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
-      "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould"
+      "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould · Luis Schwab"
     },
     {
       "id": 18,
@@ -603,7 +603,7 @@
       "end": "17:50",
       "type": "Panel",
       "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
-      "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Jutarat Singkaeo - จุฑารัตน์ สิงห์แก้ว"
+      "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Sirikul Atthapanyapol - ศิริกุล อัตถปัญญาพล"
     },
     {
       "id": 1007,
@@ -821,7 +821,7 @@
         "end": "09:50",
         "type": "Panel",
         "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
-        "speaker": "Rob Hamilton (Pending Confirmation) · Kevin Loaec (Pending Confirmation) · Dan Gould"
+        "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould"
       },
       "current": {
         "id": 1019,
@@ -831,34 +831,34 @@
         "end": "09:50",
         "type": "Panel",
         "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
-        "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould"
+        "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould · Luis Schwab"
       }
     },
     {
       "kind": "updated",
-      "id": 1024,
+      "id": 54,
       "fields": [
         "speaker"
       ],
       "previous": {
-        "id": 1024,
+        "id": 54,
         "day": 2,
-        "stage": "C",
-        "start": "14:50",
-        "end": "15:35",
+        "stage": "M",
+        "start": "16:50",
+        "end": "17:50",
         "type": "Panel",
-        "title": "Her Own Terms (EN/TH)",
-        "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Napatsanun Chatchayaladasiri"
+        "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
+        "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Jutarat Singkaeo - จุฑารัตน์ สิงห์แก้ว"
       },
       "current": {
-        "id": 1024,
+        "id": 54,
         "day": 2,
-        "stage": "C",
-        "start": "14:50",
-        "end": "15:35",
+        "stage": "M",
+        "start": "16:50",
+        "end": "17:50",
         "type": "Panel",
-        "title": "Her Own Terms (EN/TH)",
-        "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Fai Napatsanun C."
+        "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
+        "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Sirikul Atthapanyapol - ศิริกุล อัตถปัญญาพล"
       }
     }
   ],
