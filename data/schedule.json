@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-13T22:18:43.973Z",
-  "lastChangedAt": "2026-11-13T22:18:43.973Z",
+  "verifiedAt": "2026-11-14T09:24:53.730Z",
+  "lastChangedAt": "2026-11-14T09:24:53.730Z",
   "sessions": [
     {
       "id": 0,
@@ -203,7 +203,7 @@
       "end": "09:50",
       "type": "Panel",
       "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
-      "speaker": "Rob Hamilton (Pending Confirmation) · Kevin Loaec (Pending Confirmation) · Dan Gould"
+      "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould"
     },
     {
       "id": 18,
@@ -723,7 +723,7 @@
       "end": "15:35",
       "type": "Panel",
       "title": "Her Own Terms (EN/TH)",
-      "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Napatsanun Chatchayaladasiri"
+      "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Fai Napatsanun C."
     },
     {
       "id": 67,
@@ -809,35 +809,38 @@
   "changes": [
     {
       "kind": "updated",
-      "id": 1020,
+      "id": 1019,
       "fields": [
         "speaker"
       ],
       "previous": {
-        "id": 1020,
+        "id": 1019,
         "day": 1,
         "stage": "C",
-        "start": "10:20",
-        "end": "10:50",
+        "start": "09:05",
+        "end": "09:50",
         "type": "Panel",
-        "title": "How to Orange-Pill (EN/TH)",
-        "speaker": "Keypleb · Marek Feder"
+        "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
+        "speaker": "Rob Hamilton (Pending Confirmation) · Kevin Loaec (Pending Confirmation) · Dan Gould"
       },
       "current": {
-        "id": 1020,
+        "id": 1019,
         "day": 1,
         "stage": "C",
-        "start": "10:20",
-        "end": "10:50",
+        "start": "09:05",
+        "end": "09:50",
         "type": "Panel",
-        "title": "How to Orange-Pill (EN/TH)",
-        "speaker": "Keypleb · Marek Feder · (Mod) Jimmy Kostro"
+        "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
+        "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould"
       }
     },
     {
-      "kind": "added",
+      "kind": "updated",
       "id": 1024,
-      "current": {
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
         "id": 1024,
         "day": 2,
         "stage": "C",
@@ -846,76 +849,16 @@
         "type": "Panel",
         "title": "Her Own Terms (EN/TH)",
         "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Napatsanun Chatchayaladasiri"
-      }
-    },
-    {
-      "kind": "updated",
-      "id": 67,
-      "fields": [
-        "start",
-        "end"
-      ],
-      "previous": {
-        "id": 67,
-        "day": 2,
-        "stage": "C",
-        "start": "15:25",
-        "end": "15:55",
-        "type": "Project Presentation",
-        "title": "Bitcoin Kernel Demonstration (EN/TH)",
-        "speaker": "yuvicc C"
       },
       "current": {
-        "id": 67,
-        "day": 2,
-        "stage": "C",
-        "start": "15:40",
-        "end": "16:10",
-        "type": "Project Presentation",
-        "title": "Bitcoin Kernel Demonstration (EN/TH)",
-        "speaker": "yuvicc C"
-      }
-    },
-    {
-      "kind": "updated",
-      "id": 1013,
-      "fields": [
-        "start",
-        "end"
-      ],
-      "previous": {
-        "id": 1013,
-        "day": 2,
-        "stage": "C",
-        "start": "16:00",
-        "end": "16:30",
-        "type": "Keynote",
-        "title": "BitVN (EN/TH)",
-        "speaker": "Fabian"
-      },
-      "current": {
-        "id": 1013,
-        "day": 2,
-        "stage": "C",
-        "start": "16:15",
-        "end": "16:45",
-        "type": "Keynote",
-        "title": "BitVN (EN/TH)",
-        "speaker": "Fabian"
-      }
-    },
-    {
-      "kind": "removed",
-      "id": 66,
-      "previous": {
-        "id": 66,
+        "id": 1024,
         "day": 2,
         "stage": "C",
         "start": "14:50",
-        "end": "15:20",
+        "end": "15:35",
         "type": "Panel",
-        "title": "Beauty Bitcoiner (EN/TH)",
-        "speaker": "Shambhavi Soni · Mango"
+        "title": "Her Own Terms (EN/TH)",
+        "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Fai Napatsanun C."
       }
     }
   ],
