@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-14T15:55:36.165Z",
-  "lastChangedAt": "2026-11-14T15:55:36.165Z",
+  "verifiedAt": "2026-11-15T04:09:22.443Z",
+  "lastChangedAt": "2026-11-15T04:09:22.443Z",
   "sessions": [
     {
       "id": 0,
@@ -689,8 +689,8 @@
       "id": 1011,
       "day": 2,
       "stage": "C",
-      "start": "12:35",
-      "end": "13:05",
+      "start": "12:25",
+      "end": "12:55",
       "type": "Keynote",
       "title": "Buy or Mine - มนุษย์เงินเดือน เดินหน้าซื้อ หรือวางเครื่องขุด (TH/EN)",
       "speaker": "Sakkarin Borisut - ศักรินทร์ บริสุทธิ์"
@@ -699,8 +699,8 @@
       "id": 1012,
       "day": 2,
       "stage": "C",
-      "start": "13:10",
-      "end": "14:10",
+      "start": "13:00",
+      "end": "14:00",
       "type": "Panel",
       "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
       "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · (Mod) Watcharapong Ritkhampee - วัชรพงศ์ ฤทธิ์คัมภีร์"
@@ -709,8 +709,8 @@
       "id": 65,
       "day": 2,
       "stage": "C",
-      "start": "14:15",
-      "end": "14:45",
+      "start": "14:05",
+      "end": "14:35",
       "type": "Keynote",
       "title": "Decentralized Equilibrium for Bitcoin Mining (EN/TH)",
       "speaker": "Manuel Mueller-Frank"
@@ -719,8 +719,8 @@
       "id": 1024,
       "day": 2,
       "stage": "C",
-      "start": "14:50",
-      "end": "15:35",
+      "start": "14:40",
+      "end": "15:25",
       "type": "Panel",
       "title": "Her Own Terms (EN/TH)",
       "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Fai Napatsanun C."
@@ -729,8 +729,8 @@
       "id": 67,
       "day": 2,
       "stage": "C",
-      "start": "15:40",
-      "end": "16:10",
+      "start": "16:10",
+      "end": "16:40",
       "type": "Project Presentation",
       "title": "Bitcoin Kernel Demonstration (EN/TH)",
       "speaker": "yuvicc C"
@@ -739,8 +739,8 @@
       "id": 1013,
       "day": 2,
       "stage": "C",
-      "start": "16:15",
-      "end": "16:45",
+      "start": "16:45",
+      "end": "17:15",
       "type": "Keynote",
       "title": "BitVN (EN/TH)",
       "speaker": "Fabian"
@@ -809,56 +809,170 @@
   "changes": [
     {
       "kind": "updated",
-      "id": 1019,
+      "id": 1011,
       "fields": [
-        "speaker"
+        "start",
+        "end"
       ],
       "previous": {
-        "id": 1019,
-        "day": 1,
+        "id": 1011,
+        "day": 2,
         "stage": "C",
-        "start": "09:05",
-        "end": "09:50",
-        "type": "Panel",
-        "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
-        "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould"
+        "start": "12:35",
+        "end": "13:05",
+        "type": "Keynote",
+        "title": "Buy or Mine - มนุษย์เงินเดือน เดินหน้าซื้อ หรือวางเครื่องขุด (TH/EN)",
+        "speaker": "Sakkarin Borisut - ศักรินทร์ บริสุทธิ์"
       },
       "current": {
-        "id": 1019,
-        "day": 1,
+        "id": 1011,
+        "day": 2,
         "stage": "C",
-        "start": "09:05",
-        "end": "09:50",
-        "type": "Panel",
-        "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
-        "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould · Luis Schwab"
+        "start": "12:25",
+        "end": "12:55",
+        "type": "Keynote",
+        "title": "Buy or Mine - มนุษย์เงินเดือน เดินหน้าซื้อ หรือวางเครื่องขุด (TH/EN)",
+        "speaker": "Sakkarin Borisut - ศักรินทร์ บริสุทธิ์"
       }
     },
     {
       "kind": "updated",
-      "id": 54,
+      "id": 1012,
       "fields": [
-        "speaker"
+        "start",
+        "end"
       ],
       "previous": {
-        "id": 54,
+        "id": 1012,
         "day": 2,
-        "stage": "M",
-        "start": "16:50",
-        "end": "17:50",
+        "stage": "C",
+        "start": "13:10",
+        "end": "14:10",
         "type": "Panel",
-        "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
-        "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Jutarat Singkaeo - จุฑารัตน์ สิงห์แก้ว"
+        "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
+        "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · (Mod) Watcharapong Ritkhampee - วัชรพงศ์ ฤทธิ์คัมภีร์"
       },
       "current": {
-        "id": 54,
+        "id": 1012,
         "day": 2,
-        "stage": "M",
-        "start": "16:50",
-        "end": "17:50",
+        "stage": "C",
+        "start": "13:00",
+        "end": "14:00",
         "type": "Panel",
-        "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
-        "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Sirikul Atthapanyapol - ศิริกุล อัตถปัญญาพล"
+        "title": "Bitcoin Maxxing - บิตคอยเนอร์ที่ไม่รันโหนดมีอยู่จริง (TH/EN)",
+        "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · (Mod) Watcharapong Ritkhampee - วัชรพงศ์ ฤทธิ์คัมภีร์"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 65,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 65,
+        "day": 2,
+        "stage": "C",
+        "start": "14:15",
+        "end": "14:45",
+        "type": "Keynote",
+        "title": "Decentralized Equilibrium for Bitcoin Mining (EN/TH)",
+        "speaker": "Manuel Mueller-Frank"
+      },
+      "current": {
+        "id": 65,
+        "day": 2,
+        "stage": "C",
+        "start": "14:05",
+        "end": "14:35",
+        "type": "Keynote",
+        "title": "Decentralized Equilibrium for Bitcoin Mining (EN/TH)",
+        "speaker": "Manuel Mueller-Frank"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 1024,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 1024,
+        "day": 2,
+        "stage": "C",
+        "start": "14:50",
+        "end": "15:35",
+        "type": "Panel",
+        "title": "Her Own Terms (EN/TH)",
+        "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Fai Napatsanun C."
+      },
+      "current": {
+        "id": 1024,
+        "day": 2,
+        "stage": "C",
+        "start": "14:40",
+        "end": "15:25",
+        "type": "Panel",
+        "title": "Her Own Terms (EN/TH)",
+        "speaker": "Shambhavi Soni · Mango · Mineey · (Mod) Fai Napatsanun C."
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 67,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 67,
+        "day": 2,
+        "stage": "C",
+        "start": "15:40",
+        "end": "16:10",
+        "type": "Project Presentation",
+        "title": "Bitcoin Kernel Demonstration (EN/TH)",
+        "speaker": "yuvicc C"
+      },
+      "current": {
+        "id": 67,
+        "day": 2,
+        "stage": "C",
+        "start": "16:10",
+        "end": "16:40",
+        "type": "Project Presentation",
+        "title": "Bitcoin Kernel Demonstration (EN/TH)",
+        "speaker": "yuvicc C"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 1013,
+      "fields": [
+        "start",
+        "end"
+      ],
+      "previous": {
+        "id": 1013,
+        "day": 2,
+        "stage": "C",
+        "start": "16:15",
+        "end": "16:45",
+        "type": "Keynote",
+        "title": "BitVN (EN/TH)",
+        "speaker": "Fabian"
+      },
+      "current": {
+        "id": 1013,
+        "day": 2,
+        "stage": "C",
+        "start": "16:45",
+        "end": "17:15",
+        "type": "Keynote",
+        "title": "BitVN (EN/TH)",
+        "speaker": "Fabian"
       }
     }
   ],
