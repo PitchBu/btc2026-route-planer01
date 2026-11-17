@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-16T10:04:01.930Z",
-  "lastChangedAt": "2026-11-16T10:04:01.930Z",
+  "verifiedAt": "2026-11-17T11:45:30.463Z",
+  "lastChangedAt": "2026-11-17T11:45:30.463Z",
   "sessions": [
     {
       "id": 0,
@@ -232,7 +232,7 @@
       "start": "10:55",
       "end": "11:15",
       "type": "Keynote",
-      "title": "How to Start Bitcoin Business (EN/TH)",
+      "title": "How to Start a Bitcoin Business (EN/TH)",
       "speaker": "Kevin Loaec (Pending Confirmation)"
     },
     {
@@ -828,58 +828,30 @@
   ],
   "changes": [
     {
-      "kind": "added",
-      "id": 1027,
-      "current": {
-        "id": 1027,
-        "day": 2,
-        "stage": "C",
-        "start": "14:05",
-        "end": "14:35",
-        "type": "Keynote",
-        "title": "Two Open Problems in Bitcoin Mining and their Solutions (EN/TH)",
-        "speaker": "Manuel Mueller-Frank"
-      }
-    },
-    {
       "kind": "updated",
-      "id": 1025,
+      "id": 20,
       "fields": [
-        "speaker"
+        "title"
       ],
       "previous": {
-        "id": 1025,
-        "day": 2,
+        "id": 20,
+        "day": 1,
         "stage": "C",
-        "start": "15:30",
-        "end": "15:45",
+        "start": "10:55",
+        "end": "11:15",
         "type": "Keynote",
-        "title": "Anatomy of a Hash: From Power to Pool (EN/TH)",
-        "speaker": "Sunil Kumar Ralia"
+        "title": "How to Start Bitcoin Business (EN/TH)",
+        "speaker": "Kevin Loaec (Pending Confirmation)"
       },
       "current": {
-        "id": 1025,
-        "day": 2,
+        "id": 20,
+        "day": 1,
         "stage": "C",
-        "start": "15:30",
-        "end": "15:45",
+        "start": "10:55",
+        "end": "11:15",
         "type": "Keynote",
-        "title": "Anatomy of a Hash: From Power to Pool (EN/TH)",
-        "speaker": "Captain Hashrate"
-      }
-    },
-    {
-      "kind": "removed",
-      "id": 65,
-      "previous": {
-        "id": 65,
-        "day": 2,
-        "stage": "C",
-        "start": "14:05",
-        "end": "14:35",
-        "type": "Keynote",
-        "title": "Decentralized Equilibrium for Bitcoin Mining (EN/TH)",
-        "speaker": "Manuel Mueller-Frank"
+        "title": "How to Start a Bitcoin Business (EN/TH)",
+        "speaker": "Kevin Loaec (Pending Confirmation)"
       }
     }
   ],
