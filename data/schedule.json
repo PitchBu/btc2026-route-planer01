@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-17T11:45:30.463Z",
-  "lastChangedAt": "2026-11-17T11:45:30.463Z",
+  "verifiedAt": "2026-11-18T10:27:52.944Z",
+  "lastChangedAt": "2026-11-18T10:27:52.944Z",
   "sessions": [
     {
       "id": 0,
@@ -203,7 +203,7 @@
       "end": "09:50",
       "type": "Panel",
       "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
-      "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould · Luis Schwab · (Mod) Piccolo"
+      "speaker": "Kevin Loaec · Dan Gould · Luis Schwab · (Mod) Piccolo"
     },
     {
       "id": 18,
@@ -233,7 +233,7 @@
       "end": "11:15",
       "type": "Keynote",
       "title": "How to Start a Bitcoin Business (EN/TH)",
-      "speaker": "Kevin Loaec (Pending Confirmation)"
+      "speaker": "Kevin Loaec"
     },
     {
       "id": 21,
@@ -273,7 +273,7 @@
       "end": "12:40",
       "type": "Keynote",
       "title": "Beyond the Screen: Building Bitcoin Communities (EN/TH)",
-      "speaker": "Bitshala"
+      "speaker": "Paperpsych"
     },
     {
       "id": 23,
@@ -403,7 +403,7 @@
       "end": "13:15",
       "type": "Keynote",
       "title": "Wizardsardine and Liana Wallet (EN/TH)",
-      "speaker": "Kevin Loaec (Pending Confirmation)"
+      "speaker": "Kevin Loaec"
     },
     {
       "id": 1016,
@@ -603,7 +603,7 @@
       "end": "17:50",
       "type": "Panel",
       "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
-      "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Sirikul Atthapanyapol - ศิริกุล อัตถปัญญาพล"
+      "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Jutarat Singkaeo - จุฑารัตน์ สิงห์แก้ว"
     },
     {
       "id": 1007,
@@ -706,13 +706,13 @@
       "speaker": "Piyapong Bhookham - ปิยะพงษ์ ภู่ขำ · Techin Keasornpan - เตชินท์ เกษรพันธ์ · Juranon Burapaka - จุรานนท์ บุระผากา · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · (Mod) Watcharapong Ritkhampee - วัชรพงศ์ ฤทธิ์คัมภีร์"
     },
     {
-      "id": 1027,
+      "id": 1028,
       "day": 2,
       "stage": "C",
       "start": "14:05",
       "end": "14:35",
       "type": "Keynote",
-      "title": "Two Open Problems in Bitcoin Mining and their Solutions (EN/TH)",
+      "title": "Bitcoin's Decentralization Paradox: Two Fundamental Problems and Their Game-Theoretic Solutions (EN/TH)",
       "speaker": "Manuel Mueller-Frank"
     },
     {
@@ -753,16 +753,16 @@
       "end": "16:40",
       "type": "Project Presentation",
       "title": "Bitcoin Kernel Demonstration (EN/TH)",
-      "speaker": "yuvicc C"
+      "speaker": "Yuvicc"
     },
     {
-      "id": 1013,
+      "id": 1029,
       "day": 2,
       "stage": "C",
       "start": "16:45",
       "end": "17:15",
       "type": "Keynote",
-      "title": "BitVN (EN/TH)",
+      "title": "Hardware is Hard: Building with Bitcoin (EN/TH)",
       "speaker": "Fabian"
     },
     {
@@ -829,9 +829,36 @@
   "changes": [
     {
       "kind": "updated",
+      "id": 1019,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 1019,
+        "day": 1,
+        "stage": "C",
+        "start": "09:05",
+        "end": "09:50",
+        "type": "Panel",
+        "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
+        "speaker": "Kevin Loaec (Pending Confirmation) · Dan Gould · Luis Schwab · (Mod) Piccolo"
+      },
+      "current": {
+        "id": 1019,
+        "day": 1,
+        "stage": "C",
+        "start": "09:05",
+        "end": "09:50",
+        "type": "Panel",
+        "title": "Hackers Evolve. Bitcoiners Adapt. (EN/TH)",
+        "speaker": "Kevin Loaec · Dan Gould · Luis Schwab · (Mod) Piccolo"
+      }
+    },
+    {
+      "kind": "updated",
       "id": 20,
       "fields": [
-        "title"
+        "speaker"
       ],
       "previous": {
         "id": 20,
@@ -840,7 +867,7 @@
         "start": "10:55",
         "end": "11:15",
         "type": "Keynote",
-        "title": "How to Start Bitcoin Business (EN/TH)",
+        "title": "How to Start a Bitcoin Business (EN/TH)",
         "speaker": "Kevin Loaec (Pending Confirmation)"
       },
       "current": {
@@ -851,7 +878,171 @@
         "end": "11:15",
         "type": "Keynote",
         "title": "How to Start a Bitcoin Business (EN/TH)",
+        "speaker": "Kevin Loaec"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 1023,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 1023,
+        "day": 1,
+        "stage": "C",
+        "start": "12:25",
+        "end": "12:40",
+        "type": "Keynote",
+        "title": "Beyond the Screen: Building Bitcoin Communities (EN/TH)",
+        "speaker": "Bitshala"
+      },
+      "current": {
+        "id": 1023,
+        "day": 1,
+        "stage": "C",
+        "start": "12:25",
+        "end": "12:40",
+        "type": "Keynote",
+        "title": "Beyond the Screen: Building Bitcoin Communities (EN/TH)",
+        "speaker": "Paperpsych"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 35,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 35,
+        "day": 1,
+        "stage": "W",
+        "start": "12:45",
+        "end": "13:15",
+        "type": "Keynote",
+        "title": "Wizardsardine and Liana Wallet (EN/TH)",
         "speaker": "Kevin Loaec (Pending Confirmation)"
+      },
+      "current": {
+        "id": 35,
+        "day": 1,
+        "stage": "W",
+        "start": "12:45",
+        "end": "13:15",
+        "type": "Keynote",
+        "title": "Wizardsardine and Liana Wallet (EN/TH)",
+        "speaker": "Kevin Loaec"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 54,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 54,
+        "day": 2,
+        "stage": "M",
+        "start": "16:50",
+        "end": "17:50",
+        "type": "Panel",
+        "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
+        "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Sirikul Atthapanyapol - ศิริกุล อัตถปัญญาพล"
+      },
+      "current": {
+        "id": 54,
+        "day": 2,
+        "stage": "M",
+        "start": "16:50",
+        "end": "17:50",
+        "type": "Panel",
+        "title": "The Bitcoin Network Effect: From Early Adoption to Mass Community - รวมพลังส่งไม้ต่อสู่แกนนำหัวเมือง (TH/EN)",
+        "speaker": "Napatsanun Chatchayaladasiri - ณภัสนันท์ ฉัตรชยาลดาสิริ · Nattayot Seehabua - ณัฐยศ สีหาบัว · Sutthikead Sirivoradechkul - สุทธิเกียรติ ศิริวรเดชกุล · Habib Kodae - ฮาบิ๊บ คอแด๊ะ · Sarun Viriyasiripong - ศรัณย์ วิริยะศิริพงศ์ · (Mod) Jutarat Singkaeo - จุฑารัตน์ สิงห์แก้ว"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1028,
+      "current": {
+        "id": 1028,
+        "day": 2,
+        "stage": "C",
+        "start": "14:05",
+        "end": "14:35",
+        "type": "Keynote",
+        "title": "Bitcoin's Decentralization Paradox: Two Fundamental Problems and Their Game-Theoretic Solutions (EN/TH)",
+        "speaker": "Manuel Mueller-Frank"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 67,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 67,
+        "day": 2,
+        "stage": "C",
+        "start": "16:10",
+        "end": "16:40",
+        "type": "Project Presentation",
+        "title": "Bitcoin Kernel Demonstration (EN/TH)",
+        "speaker": "yuvicc C"
+      },
+      "current": {
+        "id": 67,
+        "day": 2,
+        "stage": "C",
+        "start": "16:10",
+        "end": "16:40",
+        "type": "Project Presentation",
+        "title": "Bitcoin Kernel Demonstration (EN/TH)",
+        "speaker": "Yuvicc"
+      }
+    },
+    {
+      "kind": "added",
+      "id": 1029,
+      "current": {
+        "id": 1029,
+        "day": 2,
+        "stage": "C",
+        "start": "16:45",
+        "end": "17:15",
+        "type": "Keynote",
+        "title": "Hardware is Hard: Building with Bitcoin (EN/TH)",
+        "speaker": "Fabian"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 1027,
+      "previous": {
+        "id": 1027,
+        "day": 2,
+        "stage": "C",
+        "start": "14:05",
+        "end": "14:35",
+        "type": "Keynote",
+        "title": "Two Open Problems in Bitcoin Mining and their Solutions (EN/TH)",
+        "speaker": "Manuel Mueller-Frank"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 1013,
+      "previous": {
+        "id": 1013,
+        "day": 2,
+        "stage": "C",
+        "start": "16:45",
+        "end": "17:15",
+        "type": "Keynote",
+        "title": "BitVN (EN/TH)",
+        "speaker": "Fabian"
       }
     }
   ],
