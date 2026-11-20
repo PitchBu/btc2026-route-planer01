@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-19T08:17:20.880Z",
-  "lastChangedAt": "2026-11-19T08:17:20.880Z",
+  "verifiedAt": "2026-11-20T13:22:19.147Z",
+  "lastChangedAt": "2026-11-20T13:22:19.147Z",
   "sessions": [
     {
       "id": 0,
@@ -36,14 +36,14 @@
       "speaker": ""
     },
     {
-      "id": 3,
+      "id": 1030,
       "day": 1,
       "stage": "M",
       "start": "09:20",
       "end": "09:40",
       "type": "Keynote",
-      "title": "Nation-State Game Theory: Why Asia’s Central Banks Will Capitulate to Bitcoin (EN/TH)",
-      "speaker": "Jack Tinney"
+      "title": "Nation-State Game Theory (EN/TH)",
+      "speaker": "Michael Rosen"
     },
     {
       "id": 4,
@@ -828,58 +828,31 @@
   ],
   "changes": [
     {
-      "kind": "updated",
-      "id": 29,
-      "fields": [
-        "end"
-      ],
-      "previous": {
-        "id": 29,
-        "day": 1,
-        "stage": "C",
-        "start": "16:10",
-        "end": "16:40",
-        "type": "Keynote",
-        "title": "Monetizing APIs with ngx-l402 (EN/TH)",
-        "speaker": "thesvn"
-      },
+      "kind": "added",
+      "id": 1030,
       "current": {
-        "id": 29,
+        "id": 1030,
         "day": 1,
-        "stage": "C",
-        "start": "16:10",
-        "end": "16:30",
+        "stage": "M",
+        "start": "09:20",
+        "end": "09:40",
         "type": "Keynote",
-        "title": "Monetizing APIs with ngx-l402 (EN/TH)",
-        "speaker": "thesvn"
+        "title": "Nation-State Game Theory (EN/TH)",
+        "speaker": "Michael Rosen"
       }
     },
     {
-      "kind": "updated",
-      "id": 30,
-      "fields": [
-        "start",
-        "end"
-      ],
+      "kind": "removed",
+      "id": 3,
       "previous": {
-        "id": 30,
+        "id": 3,
         "day": 1,
-        "stage": "C",
-        "start": "16:45",
-        "end": "17:05",
+        "stage": "M",
+        "start": "09:20",
+        "end": "09:40",
         "type": "Keynote",
-        "title": "Making Asia the Bitcoin Capital (EN/TH)",
-        "speaker": "Gaëlle Wizenberg"
-      },
-      "current": {
-        "id": 30,
-        "day": 1,
-        "stage": "C",
-        "start": "16:35",
-        "end": "16:55",
-        "type": "Keynote",
-        "title": "Making Asia the Bitcoin Capital (EN/TH)",
-        "speaker": "Gaëlle Wizenberg"
+        "title": "Nation-State Game Theory: Why Asia’s Central Banks Will Capitulate to Bitcoin (EN/TH)",
+        "speaker": "Jack Tinney"
       }
     }
   ],
