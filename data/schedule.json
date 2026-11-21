@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-21T02:38:13.280Z",
-  "lastChangedAt": "2026-11-21T02:38:13.280Z",
+  "verifiedAt": "2026-11-21T10:12:42.650Z",
+  "lastChangedAt": "2026-11-21T10:12:42.650Z",
   "sessions": [
     {
       "id": 0,
@@ -356,13 +356,13 @@
       "speaker": "Gaëlle Wizenberg"
     },
     {
-      "id": 1031,
+      "id": 1032,
       "day": 1,
       "stage": "C",
       "start": "17:00",
       "end": "17:15",
       "type": "Keynote",
-      "title": "AQUA Wallet and AQUA Pay (EN/TH)",
+      "title": "Introducing AQUA Pay: Self-Custodial Bitcoin Payments for Merchants (EN/TH)",
       "speaker": "Jack Tinney"
     },
     {
@@ -839,8 +839,22 @@
   "changes": [
     {
       "kind": "added",
-      "id": 1031,
+      "id": 1032,
       "current": {
+        "id": 1032,
+        "day": 1,
+        "stage": "C",
+        "start": "17:00",
+        "end": "17:15",
+        "type": "Keynote",
+        "title": "Introducing AQUA Pay: Self-Custodial Bitcoin Payments for Merchants (EN/TH)",
+        "speaker": "Jack Tinney"
+      }
+    },
+    {
+      "kind": "removed",
+      "id": 1031,
+      "previous": {
         "id": 1031,
         "day": 1,
         "stage": "C",
