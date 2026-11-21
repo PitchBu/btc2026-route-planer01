@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-20T13:22:19.147Z",
-  "lastChangedAt": "2026-11-20T13:22:19.147Z",
+  "verifiedAt": "2026-11-21T02:38:13.280Z",
+  "lastChangedAt": "2026-11-21T02:38:13.280Z",
   "sessions": [
     {
       "id": 0,
@@ -354,6 +354,16 @@
       "type": "Keynote",
       "title": "Making Asia the Bitcoin Capital (EN/TH)",
       "speaker": "Gaëlle Wizenberg"
+    },
+    {
+      "id": 1031,
+      "day": 1,
+      "stage": "C",
+      "start": "17:00",
+      "end": "17:15",
+      "type": "Keynote",
+      "title": "AQUA Wallet and AQUA Pay (EN/TH)",
+      "speaker": "Jack Tinney"
     },
     {
       "id": 31,
@@ -829,29 +839,15 @@
   "changes": [
     {
       "kind": "added",
-      "id": 1030,
+      "id": 1031,
       "current": {
-        "id": 1030,
+        "id": 1031,
         "day": 1,
-        "stage": "M",
-        "start": "09:20",
-        "end": "09:40",
+        "stage": "C",
+        "start": "17:00",
+        "end": "17:15",
         "type": "Keynote",
-        "title": "Nation-State Game Theory (EN/TH)",
-        "speaker": "Michael Rosen"
-      }
-    },
-    {
-      "kind": "removed",
-      "id": 3,
-      "previous": {
-        "id": 3,
-        "day": 1,
-        "stage": "M",
-        "start": "09:20",
-        "end": "09:40",
-        "type": "Keynote",
-        "title": "Nation-State Game Theory: Why Asia’s Central Banks Will Capitulate to Bitcoin (EN/TH)",
+        "title": "AQUA Wallet and AQUA Pay (EN/TH)",
         "speaker": "Jack Tinney"
       }
     }
