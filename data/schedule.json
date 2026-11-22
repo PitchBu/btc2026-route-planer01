@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-21T10:12:42.650Z",
-  "lastChangedAt": "2026-11-21T10:12:42.650Z",
+  "verifiedAt": "2026-11-22T23:00:09.136Z",
+  "lastChangedAt": "2026-11-22T23:00:09.136Z",
   "sessions": [
     {
       "id": 0,
@@ -373,7 +373,7 @@
       "end": "10:00",
       "type": "Project Presentation",
       "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ (TH/EN)",
-      "speaker": "Techin Keasornpan - เตชินท์ เกษรพันธ์"
+      "speaker": "Techin Keasornpan - เตชินท์ เกษรพันธ์ · Siraphop Nilbodee - สิรภพ นิลบดี · Thanakrit Sangnongban - ธนกฤต เส็งหนองแบน"
     },
     {
       "id": 32,
@@ -823,7 +823,7 @@
       "end": "14:20",
       "type": "Keynote",
       "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
-      "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
+      "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี · Krittanai Peanjaroen - กฤตนัย เพียรเจริญ"
     },
     {
       "id": 1015,
@@ -833,36 +833,89 @@
       "end": "15:55",
       "type": "Project Presentation",
       "title": "Multisig Multi-vendor - อาจารย์ต๊ำ จับมือทำ มัลติซิก (TH/EN)",
-      "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
+      "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์ · Krittanai Peanjaroen - กฤตนัย เพียรเจริญ · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · Siraphop Nilbodee - สิรภพ นิลบดี"
     }
   ],
   "changes": [
     {
-      "kind": "added",
-      "id": 1032,
-      "current": {
-        "id": 1032,
+      "kind": "updated",
+      "id": 31,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 31,
         "day": 1,
-        "stage": "C",
-        "start": "17:00",
-        "end": "17:15",
-        "type": "Keynote",
-        "title": "Introducing AQUA Pay: Self-Custodial Bitcoin Payments for Merchants (EN/TH)",
-        "speaker": "Jack Tinney"
+        "stage": "W",
+        "start": "09:30",
+        "end": "10:00",
+        "type": "Project Presentation",
+        "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ (TH/EN)",
+        "speaker": "Techin Keasornpan - เตชินท์ เกษรพันธ์"
+      },
+      "current": {
+        "id": 31,
+        "day": 1,
+        "stage": "W",
+        "start": "09:30",
+        "end": "10:00",
+        "type": "Project Presentation",
+        "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ (TH/EN)",
+        "speaker": "Techin Keasornpan - เตชินท์ เกษรพันธ์ · Siraphop Nilbodee - สิรภพ นิลบดี · Thanakrit Sangnongban - ธนกฤต เส็งหนองแบน"
       }
     },
     {
-      "kind": "removed",
-      "id": 1031,
+      "kind": "updated",
+      "id": 73,
+      "fields": [
+        "speaker"
+      ],
       "previous": {
-        "id": 1031,
-        "day": 1,
-        "stage": "C",
-        "start": "17:00",
-        "end": "17:15",
+        "id": 73,
+        "day": 2,
+        "stage": "W",
+        "start": "13:50",
+        "end": "14:20",
         "type": "Keynote",
-        "title": "AQUA Wallet and AQUA Pay (EN/TH)",
-        "speaker": "Jack Tinney"
+        "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
+        "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
+      },
+      "current": {
+        "id": 73,
+        "day": 2,
+        "stage": "W",
+        "start": "13:50",
+        "end": "14:20",
+        "type": "Keynote",
+        "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
+        "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี · Krittanai Peanjaroen - กฤตนัย เพียรเจริญ"
+      }
+    },
+    {
+      "kind": "updated",
+      "id": 1015,
+      "fields": [
+        "speaker"
+      ],
+      "previous": {
+        "id": 1015,
+        "day": 2,
+        "stage": "W",
+        "start": "14:25",
+        "end": "15:55",
+        "type": "Project Presentation",
+        "title": "Multisig Multi-vendor - อาจารย์ต๊ำ จับมือทำ มัลติซิก (TH/EN)",
+        "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
+      },
+      "current": {
+        "id": 1015,
+        "day": 2,
+        "stage": "W",
+        "start": "14:25",
+        "end": "15:55",
+        "type": "Project Presentation",
+        "title": "Multisig Multi-vendor - อาจารย์ต๊ำ จับมือทำ มัลติซิก (TH/EN)",
+        "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์ · Krittanai Peanjaroen - กฤตนัย เพียรเจริญ · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · Siraphop Nilbodee - สิรภพ นิลบดี"
       }
     }
   ],
