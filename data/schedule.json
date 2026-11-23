@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-22T23:00:09.136Z",
-  "lastChangedAt": "2026-11-22T23:00:09.136Z",
+  "verifiedAt": "2026-11-23T13:39:23.537Z",
+  "lastChangedAt": "2026-11-23T13:39:23.537Z",
   "sessions": [
     {
       "id": 0,
@@ -416,13 +416,13 @@
       "speaker": "Kevin Loaec"
     },
     {
-      "id": 1016,
+      "id": 1033,
       "day": 1,
       "stage": "W",
       "start": "13:20",
       "end": "13:50",
       "type": "Keynote",
-      "title": "How Bitcoin and Lightning Could Reinvent Online Reviews and Trust",
+      "title": "From Likes to Sats: Reinventing Online Reviews with Bitcoin (EN/TH)",
       "speaker": "Sahil Kaura"
     },
     {
@@ -838,84 +838,31 @@
   ],
   "changes": [
     {
-      "kind": "updated",
-      "id": 31,
-      "fields": [
-        "speaker"
-      ],
-      "previous": {
-        "id": 31,
-        "day": 1,
-        "stage": "W",
-        "start": "09:30",
-        "end": "10:00",
-        "type": "Project Presentation",
-        "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ (TH/EN)",
-        "speaker": "Techin Keasornpan - เตชินท์ เกษรพันธ์"
-      },
+      "kind": "added",
+      "id": 1033,
       "current": {
-        "id": 31,
+        "id": 1033,
         "day": 1,
         "stage": "W",
-        "start": "09:30",
-        "end": "10:00",
-        "type": "Project Presentation",
-        "title": "From Entropy to Seed Phrase - เธอเองก็สร้างได้นะ Seed Phrase น่ะ (TH/EN)",
-        "speaker": "Techin Keasornpan - เตชินท์ เกษรพันธ์ · Siraphop Nilbodee - สิรภพ นิลบดี · Thanakrit Sangnongban - ธนกฤต เส็งหนองแบน"
+        "start": "13:20",
+        "end": "13:50",
+        "type": "Keynote",
+        "title": "From Likes to Sats: Reinventing Online Reviews with Bitcoin (EN/TH)",
+        "speaker": "Sahil Kaura"
       }
     },
     {
-      "kind": "updated",
-      "id": 73,
-      "fields": [
-        "speaker"
-      ],
+      "kind": "removed",
+      "id": 1016,
       "previous": {
-        "id": 73,
-        "day": 2,
+        "id": 1016,
+        "day": 1,
         "stage": "W",
-        "start": "13:50",
-        "end": "14:20",
+        "start": "13:20",
+        "end": "13:50",
         "type": "Keynote",
-        "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
-        "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี"
-      },
-      "current": {
-        "id": 73,
-        "day": 2,
-        "stage": "W",
-        "start": "13:50",
-        "end": "14:20",
-        "type": "Keynote",
-        "title": "The Bitcoin Merchant Toolkit: MEKHA - เปิดโปรเจกต์สายฟ้าสารพัดรับแลก (TH/EN)",
-        "speaker": "Siraphop Nilbodee - สิรภพ นิลบดี · Krittanai Peanjaroen - กฤตนัย เพียรเจริญ"
-      }
-    },
-    {
-      "kind": "updated",
-      "id": 1015,
-      "fields": [
-        "speaker"
-      ],
-      "previous": {
-        "id": 1015,
-        "day": 2,
-        "stage": "W",
-        "start": "14:25",
-        "end": "15:55",
-        "type": "Project Presentation",
-        "title": "Multisig Multi-vendor - อาจารย์ต๊ำ จับมือทำ มัลติซิก (TH/EN)",
-        "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์"
-      },
-      "current": {
-        "id": 1015,
-        "day": 2,
-        "stage": "W",
-        "start": "14:25",
-        "end": "15:55",
-        "type": "Project Presentation",
-        "title": "Multisig Multi-vendor - อาจารย์ต๊ำ จับมือทำ มัลติซิก (TH/EN)",
-        "speaker": "Piriya Sambandaraksa - พิริยะ สัมพันธารักษ์ · Krittanai Peanjaroen - กฤตนัย เพียรเจริญ · Phoovich Phuengphaendin - ภูวิศ พึ่งแผ่นดิน · Siraphop Nilbodee - สิรภพ นิลบดี"
+        "title": "How Bitcoin and Lightning Could Reinvent Online Reviews and Trust",
+        "speaker": "Sahil Kaura"
       }
     }
   ],
