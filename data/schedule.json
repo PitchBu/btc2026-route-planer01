@@ -2,8 +2,8 @@
   "source": "official-web-page",
   "sourceUrl": "https://www.bitcointhailand.co/schedule",
   "method": "scheduled-browser-extraction",
-  "verifiedAt": "2026-11-23T13:39:23.537Z",
-  "lastChangedAt": "2026-11-23T13:39:23.537Z",
+  "verifiedAt": "2026-11-26T23:11:13.047Z",
+  "lastChangedAt": "2026-11-26T23:11:13.047Z",
   "sessions": [
     {
       "id": 0,
@@ -530,10 +530,20 @@
       "day": 2,
       "stage": "M",
       "start": "11:40",
-      "end": "12:40",
+      "end": "12:10",
       "type": "Break",
       "title": "Lunch - พักเที่ยง",
       "speaker": ""
+    },
+    {
+      "id": 1034,
+      "day": 2,
+      "stage": "M",
+      "start": "12:10",
+      "end": "12:40",
+      "type": "Keynote",
+      "title": "Books Before Blocks: A Fireside with Édouard Gallego (Konsensus) (EN/TH)",
+      "speaker": "Édouard Gallego (Konsensus) · Piriya Sambandaraksa"
     },
     {
       "id": 47,
@@ -838,31 +848,44 @@
   ],
   "changes": [
     {
-      "kind": "added",
-      "id": 1033,
+      "kind": "updated",
+      "id": 46,
+      "fields": [
+        "end"
+      ],
+      "previous": {
+        "id": 46,
+        "day": 2,
+        "stage": "M",
+        "start": "11:40",
+        "end": "12:40",
+        "type": "Break",
+        "title": "Lunch - พักเที่ยง",
+        "speaker": ""
+      },
       "current": {
-        "id": 1033,
-        "day": 1,
-        "stage": "W",
-        "start": "13:20",
-        "end": "13:50",
-        "type": "Keynote",
-        "title": "From Likes to Sats: Reinventing Online Reviews with Bitcoin (EN/TH)",
-        "speaker": "Sahil Kaura"
+        "id": 46,
+        "day": 2,
+        "stage": "M",
+        "start": "11:40",
+        "end": "12:10",
+        "type": "Break",
+        "title": "Lunch - พักเที่ยง",
+        "speaker": ""
       }
     },
     {
-      "kind": "removed",
-      "id": 1016,
-      "previous": {
-        "id": 1016,
-        "day": 1,
-        "stage": "W",
-        "start": "13:20",
-        "end": "13:50",
+      "kind": "added",
+      "id": 1034,
+      "current": {
+        "id": 1034,
+        "day": 2,
+        "stage": "M",
+        "start": "12:10",
+        "end": "12:40",
         "type": "Keynote",
-        "title": "How Bitcoin and Lightning Could Reinvent Online Reviews and Trust",
-        "speaker": "Sahil Kaura"
+        "title": "Books Before Blocks: A Fireside with Édouard Gallego (Konsensus) (EN/TH)",
+        "speaker": "Édouard Gallego (Konsensus) · Piriya Sambandaraksa"
       }
     }
   ],
